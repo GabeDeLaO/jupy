@@ -1,3 +1,4 @@
+vchProjectName,dtStartDate,dtCloseDate,iFee,iProbability,iProjectProbability,FactoredCostSTD,dtCreateDate,dtRFPDate,dtPresentationDate,iMarketBudget,iMarketActual,ActiveInd,BusinessCheck,vchCity,iStateId,vchPostalCode,iCountryId,StageID,stageName,StageTypeID,StageTypeName,DeleteRecord
 Westco Service Company,2016-05-24 00:00:00.0,2016-06-30 00:00:00.0,0.0000,0,100,0.0000,2016-05-24 12:45:33.417,,,0.0000,0.0000,1,0,Shadow Hills,8,,2,12480,002- Qualified Opp/Demo Set,1,Open,0
 Design Collaborative Inc,2016-05-20 00:00:00.0,2016-07-31 00:00:00.0,0.0000,0,100,0.0000,2016-05-24 09:50:43.7,,,0.0000,0.0000,1,0,,0,,2,12480,002- Qualified Opp/Demo Set,1,Open,0
 Endurable Building Products,,,0.0000,0,100,0.0000,2016-05-23 16:35:52.983,,,0.0000,0.0000,1,0,,0,,2,12479,001- New Opportunity,1,Open,0
