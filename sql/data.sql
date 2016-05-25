@@ -44,3 +44,7 @@ INNER JOIN
 	vl_Opportunity_StageType_lk STD ON S.StageTypeID = STD.StageTypeID
 WHERE 
 	Lead.firmid = 1 order by dtCreateDate DESC
+
+
+# Firm size value list for firm 1
+SELECT A.ContractTypeName, B.iLeadID FROM vl_Project_ContractTypes A, Grid_Contact_LeadContractType B WHERE A.ContractTypeID = B.ContractTypeID AND B.iLeadID = 859547 ORDER BY A.ContractTypeOrder, A.ContractTypeName 
