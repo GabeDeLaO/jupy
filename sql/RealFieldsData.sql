@@ -16,11 +16,16 @@ WHERE
 
 
 SELECT 
-	TOP 10000 
+	TOP 100 
 	Lead.iLeadID AS leadId,
 	Lead.vchProjectName AS OpportunityName,
 	Lead.dtCreateDate AS CreateDate,
 	Lead.dtCloseDate AS CloseDate,
+	S.StageName AS Stage,
+	S.StageTypeID AS StageTypeId,
+	STD.StageTypeName AS StageType,
+	CASE WHEN STD.StageTypeName = 'Closed/Won' THEN '1' ELSE '0' END AS WAS_WON,
+	CASE WHEN STD.StageTypeName = 'Closed/Lost' THEN '1' ELSE '0' END AS WAS_LOST,
 	Lead.CFirmID AS ClientCompany,
 	cf.Company AS ClientCompanyName,
 	LEAD.dtRFPDate AS FirstDemoDate,
@@ -127,8 +132,10 @@ LEFT OUTER JOIN
      
 WHERE 
 	Lead.firmid = 1 
+--AND
+   --Lead.dtCreateDate > '12/01/2015'
 AND
-   Lead.dtCreateDate > '12/01/2015'
+   S.StageTypeID IN (1,5)
 --AND
 	--Lead.iLeadID = 975429
 GROUP BY 
@@ -139,6 +146,9 @@ GROUP BY
 	LEAD.dtRFPDate,
 	Lead.dtPresentationDate,
 	Lead.dtCloseDate,
+	S.StageName,
+	S.StageTypeID,
+	STD.StageTypeName,
 	Lead.iCost,
 	Lead.iFee,
 	Lead.iFirmFee,
@@ -193,7 +203,7 @@ GROUP BY
 	
 	
 	
-	
+select * from vl_Opportunity_StageType_lk
 	
 
 select top 10 * from ProjectCategories
