@@ -17,12 +17,14 @@ WHERE
 
 SELECT 
 	TOP 10000 
-	vchProjectName AS OpportunityName,
+	Lead.iLeadID AS leadId,
+	Lead.vchProjectName AS OpportunityName,
+	Lead.dtCreateDate AS CreateDate,
+	Lead.dtCloseDate AS CloseDate,
 	Lead.CFirmID AS ClientCompany,
 	cf.Company AS ClientCompanyName,
 	LEAD.dtRFPDate AS FirstDemoDate,
 	Lead.dtPresentationDate AS PresentationDate,
-	Lead.dtCloseDate AS CloseDate,
 	LEAD.iCost AS HourlyRateForImplementationCost,
 	Lead.iFee AS EstimatedContractValue,
 	Lead.iFirmFee AS CalculatedContractValue,
@@ -45,16 +47,17 @@ SELECT
 	st.SubmittalTypeName AS SubmitalType,
 	Lead.vchNextAction AS NextAction,
 	Lead.txNote AS Notes,
-	UL.UserID AS UserID,
+	dbo.Concat(UL.UserID, ',') AS UserIDs,
 	UL.SalesCredit AS SalesCredit,
-	u.FirstName,
-	u.LastName,
-	sr.StaffRoleName AS StaffRole,
-	srt.StaffRoleTypeName AS StaffRoleType,
-	o.OfficeName AS Integration,
+	dbo.Concat(u.FirstName + ' ' + u.LastName, ',') AS Staff,
+	--u.FirstName,
+	--u.LastName,
+	--sr.StaffRoleName AS StaffRole,
+	--srt.StaffRoleTypeName AS StaffRoleType,
+	dbo.Concat(o.OfficeName, ',') AS Integration,
 	ss.StudioName AS FirmType,
-	pa.PracticeAreaName AS CurrentlyUsingCompetitor,
-	div.DivisionName AS MainCosentialUsage,
+	dbo.Concat(pa.PracticeAreaName,',') AS CurrentlyUsingCompetitor,
+	dbo.Concat(div.DivisionName,',') AS MainCosentialUsage,
 	cat.ProjectCategoryName AS PrimaryCategories,
 	scat.SecondaryCategoryName AS FDCConnection,
 	pct.ContractTypeName AS FirmSize,
@@ -124,12 +127,74 @@ LEFT OUTER JOIN
      
 WHERE 
 	Lead.firmid = 1 
+AND
+   Lead.dtCreateDate > '12/01/2015'
 --AND
-  --  Lead.dtCreateDate > '12/31/2015'
---AND
-	--Lead.iLeadID = 981348
+	--Lead.iLeadID = 975429
+GROUP BY 
+	Lead.iLeadID, 
+	Lead.vchProjectName, 
+	Lead.cfirmId,
+	cf.Company,
+	LEAD.dtRFPDate,
+	Lead.dtPresentationDate,
+	Lead.dtCloseDate,
+	Lead.iCost,
+	Lead.iFee,
+	Lead.iFirmFee,
+	Lead.GrossRevenueSTD,
+	Lead.GrossMarginDollarsSTD,
+	Lead.workHoursEngineer,
+	Lead.workHoursConstruction,
+	Lead.workHoursDesign,
+	Lead.LeadShortText2,
+	Lead.LeadMoney5,
+	Lead.LeadMoney3,
+	Lead.LeadMoney1,
+	Lead.LeadMoney2,
+	Lead.LeadNumber2,
+	Lead.LeadMoney4,
+	Lead.LeadNumber3,
+	Lead.LeadNumber1,
+	pt.prospectTypeName,
+	Lead.iSubmittalTypeID,
+	st.SubmittalTypeName,
+	Lead.vchNextAction,
+	Lead.txNote,
+	UL.SalesCredit,
+	--o.OfficeName,
+	ss.StudioName,
+	--pa.PracticeAreaName,
+	--div.DivisionName,
+	cat.ProjectCategoryName,
+	scat.SecondaryCategoryName,
+	pct.ContractTypeName,
+	Lead.chproposalsub,
+	LEAD.LeadNumber1,
+	LEAD.dtCreateDate
 order by dtCreateDate DESC
 
+
+SELECT TOP 10 
+	Lead.vchProjectName,
+	dbo.Concat(UL.UserID, ',') as users
+from 
+	Lead
+LEFT OUTER JOIN
+    Grid_Contact_UserLead UL ON Lead.iLeadID = UL.iLeadID
+LEFT OUTER JOIN
+    users u ON UL.UserID = u.UserId
+WHERE 
+	Lead.firmid = 1 
+AND
+	Lead.iLeadID = 982936--981348
+GROUP BY
+	Lead.iLeadID, Lead.vchProjectName
+	
+	
+	
+	
+	
 
 select top 10 * from ProjectCategories
 select top 10 * from Contact_grid_LeadPrimaryCategory
