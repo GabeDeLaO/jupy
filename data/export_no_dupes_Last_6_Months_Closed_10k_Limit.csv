@@ -1,0 +1,1810 @@
+leadId,OpportunityName,CreateDate,CloseDate,Stage,StageTypeId,StageType,WAS_WON,WAS_LOST,ClientCompany,ClientCompanyName,FirstDemoDate,PresentationDate,HourlyRateForImplementationCost,EstimatedContractValue,CalculatedContractValue,CalculatedImplementationCost,CalculatedTrainingCost,ImplementationHours,TrainingHours,DaysOnSite,FDCHoursLimit,ReadOnlyCostLicenseCost,FullLicenseCost,CRMLicenseCost,FDCDeliveryCost,FullLicenseCount,EnterpriseFee,ReadOnlyLicenseCount,CRMLicenseCount,ForeCastCategory,SubmitalTypeId,SubmitalType,NextAction,Notes,UserIDs,SalesCredit,Staff,Integration,FirmType,CurrentlyUsingCompetitor,MainCosentialUsage,PrimaryCategories,FDCConnection,FirmSize,ReferenceUsed,CRMLicenseCost
+981948,2rw Consultants Upsell,2016-05-26 16:09:10.94,2016-05-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1143695,"2rw Consultants, Inc.",2016-05-11 00:00:00.0,,0.0000,2160.0000,2160.0000,,,,,,,,,,,,,,,Commit,,,,,661956,,Archit Veeravalli,~None,Engineering,Cosential - Current Customer,CRM,,,,,
+977958,"Herrero Builders, Inc. Cosential/Vista by Viewpoint Financial Data Connector",2016-05-18 16:20:59.4,2016-03-21 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1453342,"Herrero Builders, Inc.",,,0.0000,2500.0000,2500.0000,,,,,,,,,,,,,,,Commit,,,,,"21815,651940,21815,651940,21815,651940",,"Christina Leahy,Cody Rademacher,Christina Leahy,Cody Rademacher,Christina Leahy,Cody Rademacher",,Construction,"Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer","Marketing Management,Marketing Management,Business Development,Business Development,CRM,CRM",Financial Data Connector (FDC),FDC: Vista by Viewpoint,,,
+972101,Johnson Carlier Upsell,2016-05-03 10:05:09.28,2016-05-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2725568,Johnson Carlier,2016-05-11 00:00:00.0,,0.0000,785.0000,785.0000,,,,,,,,720.0000,,,,,,,Best Case,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,Business Development,,,,,
+969817,Brinkmann Constructors Upsell,2016-04-27 12:05:36.633,2016-05-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2643419,Brinkmann Constructors,2016-04-06 00:00:00.0,,0.0000,2280.0000,2280.0000,,,,,,,,,,,,,,,Commit,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,CRM,,,,,
+967155,Wieland-Davco Corporation,2016-04-21 09:00:31.073,2016-05-11 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1519437,Wieland,2016-04-28 00:00:00.0,,0.0000,7700.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>5/11/16 Contract out for sig</p>,<p>Met Andy at ProCore conference in Santa Barbara. Original demo did not go well due to technical difficulties and no clear answer about the IOS work around for outlook integration. Start fresh and re-pitch Cosential. There is a need and leverage the ProCore integration. Not sure on accounting software.</p>,"721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186",,"Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM",,,,,
+966663,KFW Engineers & Surveying,2016-04-20 09:55:09.06,2016-04-21 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3125629,KFW Engineers & Surveying,2016-04-01 00:00:00.0,,0.0000,5760.0000,5000.0000,,,,,,,,,,,,,,,Commit,,,<p>Execute Contract</p>,,"144486,664068,144486,664068,144486,664068",,"Lisa McClain Pitts,Andy Hughes,Lisa McClain Pitts,Andy Hughes,Lisa McClain Pitts,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector",Engineering,"Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera","CRM,CRM,Business Development,Business Development,Marketing Management,Marketing Management",,,,,
+961445,Sellen Construction Upsell,2016-04-11 09:43:08.31,2016-05-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1291320,Sellen Construction,2016-05-11 00:00:00.0,,0.0000,1440.0000,0.0000,,,,,,,,,,,,,,,Commit,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,CRM,,,,,
+961199,Harkins Ready Mix,2016-04-08 15:01:08.707,2016-04-29 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3116077,Harkins Ready Mix,2016-04-13 00:00:00.0,,0.0000,6260.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Disco set for 4/11 w/Oscar</p>,"<p>Event Type: demo<br />
+Company: Harkins Ready Mix<br />
+FullName: Mindy West<br />
+Email: mindywest@harkinsgroup.net<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:14107493300@null"" rel=""14107493300"" title=""Click-to-Call (410) 749-3300"">(410) 749-3300</a><br />
+FormURL: http://www.cosential.com/cpt/</p>
+
+<p calibri="""" style=""margin:0in;font-family:"">3 companies. Bottom level. Concrete ready mix plant.&nbsp;</p>
+
+<p style=""margin:0in;font-family:Calibri;font-size:11.0pt"">2nd tier is harkins concrete construction. That company works for other contractors as well as Harkins contractors. Concrete construction company is often on site with other generals. Want to be able to share and manage lead and opportunities. She is the controller. Computer use is acct software?&nbsp;Might look at new acct software so it would be great to integrate but not a deal breaker. Dispatching software, command alcon. Customer info entered in there. Causes some disconnect. Plant, VP/operations manager. He is the main BD person. Assistant plant manager and dispatcher. Majority of business is people coming to them. 6-7 users to start.&nbsp;</p>","721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186",,"Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Speciality Sub Contractor - Paving,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,Accounting : ComputerEase,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development",,,,,
+959158,FCI Constructors Upsell,2016-04-04 16:39:01.513,2016-05-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1969050,"FCI Constructors, Inc.",2016-05-03 00:00:00.0,,0.0000,2160.0000,0.0000,,,,,,,,,,,,,,,Commit,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,CRM,,,,,
+958479,Palmisano Contractors,2016-04-01 13:39:16.823,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3102516,Palmisano Contractors,2016-04-07 00:00:00.0,,0.0000,3800.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/8 contract out for sig.&nbsp;</p>,<p>Attended SMPS NOLA. Disco completed by Oscar on 4/1 and he will drive next steps for demo.</p>,"721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186",,"Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : CMiC,Accounting : CMiC,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,CRM,CRM,CRM,CRM,Business Development,Business Development",,,,,
+957294,BRACE Industrial Group,2016-03-30 09:59:01.333,2016-05-31 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,2650539,BRACE Industrial Group,2016-04-06 00:00:00.0,,0.0000,26200.0000,0.0000,,,,,,,,,,,,,,,,,,<p>4/11 created Trial account for 3 days access</p>,"<p>Event Type: demo<br />
+Company: Brace Industrial Group<br />
+FullName: Tonya Carlton ( Customer Relations and Biz Dev)<br />
+Email: tonya.carlton@brace.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:12816747129@null"" rel=""12816747129"" title=""Click-to-Call 281-674-7129"">281-674-7129</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Lead Service : IIR,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+956847,Caddell Construction - Via Raymond Braswell,2016-03-29 10:46:48.33,2016-05-04 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2603132,Caddell Construction Co. (DE) LLC,2016-04-13 00:00:00.0,,0.0000,7320.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Execute proposal.</p>,,"664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : CMiC,Accounting : CMiC,Accounting : CMiC","Marketing Management,CRM,Business Development",,,101-300,,
+955761,Streib Company - Viewpoint Led,2016-03-25 11:26:04.61,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3099918,Streib Company,,,0.0000,7560.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get proposal out to Bill. &nbsp;</p>,,"664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Speciality Sub Contractor - Electrical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Business Development,CRM,Marketing Management",,,,,
+955267,Tesco Solutions,2016-03-24 10:43:07.1,2016-03-25 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3099166,Tesco Solutions,,,0.0000,1520.0000,0.0000,,,,,,,,,,,,,,,,0,,,<p>Called in on sales line.&nbsp; Used us at a past company and actually did the implementation there.&nbsp; At a new start up and wants just one seat at first but then grow later.</p>,"651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,CRM,CRM",,,,,
+938715,Austin Commerical Upsell,2016-03-23 12:52:50.903,2016-03-29 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,140320,Austin Commercial,,,0.0000,540.0000,0.0000,,,,,,,,,,,1,,,,,,,,,661956,,Archit Veeravalli,~None,,Cosential - Current Customer,,,,,,
+937299,Illinois Constructors Corporation,2016-03-22 16:17:30.357,2016-04-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3095300,Illinois Constructors Corporation,2016-04-18 00:00:00.0,,0.0000,2840.0000,0.0000,,,,,,,,,,,,,,,Commit,2287,No,<p>Get started with Implementation. &nbsp;</p>,<p>Called in on sales line interested.&nbsp; His new marketing guy used us in a past company.</p>,"651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","CRM,CRM,Business Development,Business Development",,,,,
+936865,GHD,2016-03-21 17:27:42.053,2016-05-04 11:15:41.643,007-Closed Lost,3,Closed/Lost,0,1,1264365,GHD,,,0.0000,0.0000,0.0000,,,,,,,,,,,,,,,,,,,"<p><a class=""LinkSmall"" href=""https://services.cosential.com/contact/company_view.cfm?companyid=%27%24H%5B%2CZM0E1%40%20%20%0A"" style=""font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(0, 0, 0); line-height: normal;"">JR - interested in more info on Cosential. Disco set for 3/22 w/Andy</a></p>",705186,,Jeff Meadows,,,,,,,,,
+936545,Charles C Brandt Construction,2016-03-21 14:21:56.103,2016-05-02 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2600294,Charles C. Brandt Construction,2016-04-04 00:00:00.0,,0.0000,4160.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>demo set for 4/4</p>,"<p>Event Type: demo<br />
+Company: Charles C Brandt Construction<br />
+FullName: Kelly Janssen<br />
+Email: kellyjanssen@ccbrandt.com<br />
+Phone: 3173751111<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442,651940,135762,721442",,"Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna,Cody Rademacher,Jan Flesher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+936117,Sherwood Design Engineers - Re-Sell (Past Client),2016-03-18 17:31:49.9,2016-04-21 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1882331,Sherwood Design Engineers,2016-01-12 00:00:00.0,,0.0000,7220.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Get signed contract back</p>,,"651940,664068,651940,664068,651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector",Engineering: Civil,"Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Cosential - Current Customer,Cosential - Current Customer,Accounting : Axium Ajera,Accounting : Axium Ajera,Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer","Marketing Management,Marketing Management,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management",,,,,
+935517,LCD Construction,2016-03-17 13:45:46.017,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3087737,LCD Construction,2016-03-24 00:00:00.0,,0.0000,4840.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>3/31&nbsp;Contract out for sig</p>,"<p>Called in on sales line, said he was on 3/15/16 viewpoint webinar and is interested.</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+935230,Wilson Construction Upsell,2016-03-16 16:54:54.847,2016-05-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2734761,Wilson Construction Company,2016-05-11 00:00:00.0,,0.0000,1110.0000,0.0000,,,,,,,30.0000,360.0000,,,3,,1,,Commit,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,Business Development,,,,,
+932940,"J. Uno  and  Associates, Inc.",2016-03-10 15:15:36.703,2016-05-31 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,2905539,"J. Uno  and  Associates, Inc.",2016-04-01 00:00:00.0,,0.0000,5800.0000,0.0000,,,,,,,,,,,,,,,,,,<p>Demo set for 4/1</p>,<p>Re-engaged with Rachel. Convinced her to take disco call with Oscar on the call. Transfered to Oscar. Demo to be scheduled shortly.</p>,"721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186,721442,705186",,"Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows,Oscar Reyna,Jeff Meadows","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Architecture,"CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Filemaker Pro DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house Access DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : In-house SQL DB,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,1-30,,
+932764,Poma Construction,2016-03-10 12:07:39.973,2016-04-29 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,3082889,Poma Construction,2016-03-14 00:00:00.0,,0.0000,3800.0000,0.0000,,,,,,,,,,,,,,,,,,<p>3/31 LVM for Michelle and emailed</p>,"<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Poma Construction<br />
+Contact name:&nbsp;&nbsp; &nbsp;Michelle Damone<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Director<br />
+Mobile:&nbsp;&nbsp; &nbsp;<a class=""onsip-click-to-call"" extension=""null"" href=""onsip:15613152973@null"" rel=""15613152973"" title=""Click-to-Call (561) 315-2973"">(561) 315-2973</a><br />
+Email:&nbsp;&nbsp; &nbsp;michelle@pomaonline.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.pomaonline.com<br />
+Address:&nbsp;&nbsp; &nbsp;2049 Southwest Poma Drive<br />
+City:&nbsp;&nbsp; &nbsp;Palm City<br />
+State:&nbsp;&nbsp; &nbsp;FL<br />
+ZIP code:&nbsp;&nbsp; &nbsp;34990<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;3/9/16 10:30 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Construction - B2B. They design and build high-rise buildings, hotels, and other commercial projects.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$6 million to $25 million<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;11 to 20 employees. 20.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;2 to 5 users. 5.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation and Marketing Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;She wants to be able to track sales, log interaction notes, file documents, schedule reminders/follow-ups, monitor the sales pipeline, send emails/newsletters, track clients/leads, have mobile access, and have quality reporting/analytics. This buyer had specific questions about being able to use Dropbox into the system, have an activity stream team view, and if the system would allow them to upload documents to a client file.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Web-based<br />
+Currently using:&nbsp;&nbsp; &nbsp;Outlook.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;They want a system in place to better manage the sales process and get more organized.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;Acculink and Salesforce.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Ok up to $60/user/month plus setup fee.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;Immediate.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Demo<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;She is hit-or-miss, but available between 9am-5pm EST.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Paul</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Outlook,CRM : Outlook","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,,,
+932764,Poma Construction,2016-03-10 12:07:39.973,2016-04-29 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,3082889,Poma Construction,2016-03-14 00:00:00.0,,0.0000,3800.0000,0.0000,,,,,,,,,,,,,,,,,,<p>3/31 LVM for Michelle and emailed</p>,"<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Poma Construction<br />
+Contact name:&nbsp;&nbsp; &nbsp;Michelle Damone<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Director<br />
+Mobile:&nbsp;&nbsp; &nbsp;<a class=""onsip-click-to-call"" extension=""null"" href=""onsip:15613152973@null"" rel=""15613152973"" title=""Click-to-Call (561) 315-2973"">(561) 315-2973</a><br />
+Email:&nbsp;&nbsp; &nbsp;michelle@pomaonline.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.pomaonline.com<br />
+Address:&nbsp;&nbsp; &nbsp;2049 Southwest Poma Drive<br />
+City:&nbsp;&nbsp; &nbsp;Palm City<br />
+State:&nbsp;&nbsp; &nbsp;FL<br />
+ZIP code:&nbsp;&nbsp; &nbsp;34990<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;3/9/16 10:30 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Construction - B2B. They design and build high-rise buildings, hotels, and other commercial projects.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$6 million to $25 million<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;11 to 20 employees. 20.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;2 to 5 users. 5.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation and Marketing Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;She wants to be able to track sales, log interaction notes, file documents, schedule reminders/follow-ups, monitor the sales pipeline, send emails/newsletters, track clients/leads, have mobile access, and have quality reporting/analytics. This buyer had specific questions about being able to use Dropbox into the system, have an activity stream team view, and if the system would allow them to upload documents to a client file.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Web-based<br />
+Currently using:&nbsp;&nbsp; &nbsp;Outlook.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;They want a system in place to better manage the sales process and get more organized.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;Acculink and Salesforce.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Ok up to $60/user/month plus setup fee.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;Immediate.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Demo<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;She is hit-or-miss, but available between 9am-5pm EST.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Paul</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering: Structural,"CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Outlook,CRM : Outlook","CRM,CRM,Business Development,Business Development,Business Development,Business Development,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+932659,"Crimson Engineering Associates, Inc.",2016-03-10 09:50:59.537,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3081205,"Crimson Engineering Associates, Inc.",2016-03-22 00:00:00.0,,0.0000,5700.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>demo set for 3/22</p>,"<p>Event Type: demo<br />
+Company: Crimson Engineering Associates, Inc.<br />
+FullName: Adam Brown<br />
+Email: abrown@crimsonengineering.com<br />
+Phone: 3039197036<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,CRM : SharePoint,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera","CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+931611,Buttcon Limited,2016-03-08 16:21:35.99,2016-03-23 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3061409,Buttcon Limited,2016-03-17 00:00:00.0,,0.0000,3380.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>3/22 Sent updated proposal</p>,"<p>Event Type: demo<br />
+Company: Buttcon Limited<br />
+FullName: Kayla Kaiser<br />
+Email: kkaiser@buttcon.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:19059074242@null"" rel=""19059074242"" title=""Click-to-Call 9059074242"">9059074242</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,664068,721442,651940,664068,721442,651940,664068,721442",,"Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,CRM,CRM,CRM",,,,,
+931296,Hernandez Construction,2016-03-08 09:50:27.887,2016-05-27 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2380547,Hernandez Construction,2016-04-13 00:00:00.0,,0.0000,3440.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>execute agreement. &nbsp;</p>,"<p>&nbsp;</p>
+
+<p>Disco went well. Andy will take the lead and FU week of 3/21</p>
+
+<p>Interested but upfront pricing is a concern. Passed to Andy for Disco</p>","122605,664068,705186",,"Makala Herrera,Andy Hughes,Jeff Meadows","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Timberline,Accounting : Timberline,Accounting : Timberline","Business Development,Business Development,Business Development",,,,,
+930228,Metric Environmental - Shrewsberry spin out company,2016-03-04 14:31:45.6,2016-03-05 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3058357,Metric Environmental,,,0.0000,1880.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Proposal</p>,,"703814,2937,703814,2937",,"Amy Villasana-Moore,Cornell Cornish,Amy Villasana-Moore,Cornell Cornish","~None,~None,~None,~None",Engineering,"Marketing : In-house Access DB,Marketing : In-house Access DB,Marketing : In-house Access DB,Marketing : In-house Access DB","Business Development,Business Development,CRM,CRM",,,,,
+929507,Duplantis Design Group Upsell,2016-03-03 10:55:55.637,2016-03-16 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1131267,"Duplantis Design Group, PC",,,0.0000,4860.0000,0.0000,,,,,,,,540.0000,,,9,,,,,0,,,,"661956,661956",,"Archit Veeravalli,Archit Veeravalli","~None,~None",Architecture/Engineering (A/E),"Cosential - Current Customer,Cosential - Current Customer","CRM,Business Development",,,,,
+928442,Ridgemont Commercial Construction,2016-03-01 11:07:09.463,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1324775,Ridgemont Commercial Construction,2016-03-18 00:00:00.0,2016-04-08 00:00:00.0,0.0000,4195.0000,0.0000,,,,,,,,,,,,,,,,0,,"<p>3/24 Jeff is meeting with management by end of week. Thinking they are going to start small and grow into it,&nbsp;</p>","<p>Jeff Stucker is man to reach out to - 214-492-8914</p>
+
+<p>jstucker@ridgemont.com</p>
+
+<p>Tabette with the same company was talking to us in the past, but was put in nuture and is not with the company anymore.&nbsp; Emily has replaced her and talked to one of our clients, Springhill Construction, as a reference saying they might want to purchase our software and it went well.</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+928362,Hord Coplan Macht Upsell,2016-03-01 10:06:38.097,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1291850,Hord Coplan Macht,,,0.0000,3600.0000,0.0000,,,,,,,,720.0000,,,5,,,,,0,,,,661956,,Archit Veeravalli,~None,Architecture/Engineering (A/E),Cosential - Current Customer,Business Development,,,,,
+927868,Sky Blue Builders,2016-02-29 11:06:29.777,2016-04-07 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3015112,Sky Blue Builders,2016-03-02 00:00:00.0,2016-03-29 00:00:00.0,0.0000,4160.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/1 Contract out for Sig</p>,"<p>Event Type: demo<br />
+Company: Sky Blue Builders<br />
+FullName: Lauren Grosh<br />
+Email: lgrosh@skybluebuilders.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:13038192687@null"" rel=""13038192687"" title=""Click-to-Call 303-819-2687"">303-819-2687</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",Account Management,,,,
+927868,Sky Blue Builders,2016-02-29 11:06:29.777,2016-04-07 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3015112,Sky Blue Builders,2016-03-02 00:00:00.0,2016-03-29 00:00:00.0,0.0000,4160.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/1 Contract out for Sig</p>,"<p>Event Type: demo<br />
+Company: Sky Blue Builders<br />
+FullName: Lauren Grosh<br />
+Email: lgrosh@skybluebuilders.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:13038192687@null"" rel=""13038192687"" title=""Click-to-Call 303-819-2687"">303-819-2687</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Lead Service : Dodge,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC,Accounting : CMiC","CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",Marketing,,,,
+927788,"Plath & Company, Inc",2016-02-29 09:27:13.977,2016-03-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3033491,Plath & Company,2016-03-09 00:00:00.0,,0.0000,7080.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Oscar-&nbsp;Contract out for signature</p>,"<p>Sent pricing information to Steve. Following up in a week.&nbsp;<br />
+&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Plath &amp; Company, Inc<br />
+FullName: Steve Plath<br />
+Email: splath@plathco.com<br />
+Phone: 4154601575<br />
+FormURL: http://www.cosential.com/cpt/</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector",Architecture,"CRM : Act!,CRM : Act!,Accounting : Timberline,Accounting : Timberline,CRM : Act!,CRM : Act!,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Act!,CRM : Act!,Accounting : Timberline,Accounting : Timberline,CRM : Outlook,CRM : Outlook,Accounting : Timberline,Accounting : Timberline","CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,CRM,CRM,Business Development,Business Development",,,1-30,,
+927788,"Plath & Company, Inc",2016-02-29 09:27:13.977,2016-03-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3033491,Plath & Company,2016-03-09 00:00:00.0,,0.0000,7080.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Oscar-&nbsp;Contract out for signature</p>,"<p>Sent pricing information to Steve. Following up in a week.&nbsp;<br />
+&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Plath &amp; Company, Inc<br />
+FullName: Steve Plath<br />
+Email: splath@plathco.com<br />
+Phone: 4154601575<br />
+FormURL: http://www.cosential.com/cpt/</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector",Construction,"CRM : Outlook,CRM : Outlook,Accounting : Timberline,Accounting : Timberline,CRM : Act!,CRM : Act!,CRM : Outlook,CRM : Outlook,CRM : Act!,CRM : Act!,Accounting : Timberline,Accounting : Timberline,CRM : Outlook,CRM : Outlook,Accounting : Timberline,Accounting : Timberline,CRM : Act!,CRM : Act!","CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,1-30,,
+927779,H.C. Pody,2016-02-29 09:10:10.52,2016-03-11 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3034211,H.C. Pody Company,2016-02-29 00:00:00.0,,0.0000,4300.0000,0.0000,,,,,,,,,,,,,,,,0,,"<p>2/29 Lori requested pricing proposal.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>2/29 good demo. Sending proposal</p>","<p>This is a referall from Lori Sullivan ( aka Lori Ehret)&nbsp;</p>
+
+<p><span style=""line-height: 20.8px;"">demo for 2/29 ( coordinated by Lori)</span></p>","721442,721442,721442,721442,721442,721442",,"Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,CRM,CRM,Marketing Management,Marketing Management",,,,,
+926396,New England Specialty Concrete,2016-02-25 10:55:44.167,2016-03-16 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3032899,New England Specialty Concrete,2016-03-02 00:00:00.0,,0.0000,3000.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Contract out for signature.&nbsp;</p>,"<p>2/26 disco call today<br />
+&nbsp;</p>
+
+<p>Called in on sales line asking for a demo</p>","721442,721442,721442,721442",,"Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook","Business Development,CRM,CRM,Business Development",,,,,
+926396,New England Specialty Concrete,2016-02-25 10:55:44.167,2016-03-16 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3032899,New England Specialty Concrete,2016-03-02 00:00:00.0,,0.0000,3000.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Contract out for signature.&nbsp;</p>,"<p>2/26 disco call today<br />
+&nbsp;</p>
+
+<p>Called in on sales line asking for a demo</p>","721442,721442,721442,721442",,"Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Sub Contractor,"Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint","Business Development,Business Development,CRM,CRM",,,,,
+926230,"Ragnar Benson Construction, LLC",2016-02-24 17:39:31.687,2016-05-03 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2496625,"Ragnar Benson Construction, LLC",2016-03-10 00:00:00.0,,0.0000,9425.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Disco call set for 2/26 with Andy</p>,"<p>Mainly wants to be able to track and manage opps/leads. Looking for something very basic and easy to use. Viewpoint and bid to win user. Not a fan of SF. 100 year old company. $450 million. He&#39;s the new BD and they&#39;ve never had someone in that role before. Bring him a long slowly. Do not overwhelm.</p>
+
+<p>BD Path &ndash; New for Ragner</p>
+
+<p>100 yr old company.&nbsp;</p>
+
+<p>They done it this way for a long time.</p>
+
+<p>&nbsp;</p>
+
+<p>Single family ownership.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>State and public work historically &ndash; always on the bid list.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Moving into more private work.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Engineering</p>
+
+<p>&nbsp;</p>
+
+<p>VP and Procore</p>
+
+<p>&nbsp;</p>
+
+<p>Bid2Win for bidding.</p>
+
+<p>&nbsp;</p>
+
+<p>If cosnetial is going to work for us&hellip;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Simple, easy, adoption.</p>
+
+<p>&nbsp;</p>
+
+<p>Not an accountability whip, but we need to gather data.</p>
+
+<p>&nbsp;</p>
+
+<p>Whats in the pipe and how reliable is it?</p>
+
+<p>&nbsp;</p>
+
+<p>Never considered a process.</p>
+
+<p>&nbsp;</p>
+
+<p>Lets do a demo for Marc first.&nbsp; Get his feedback.</p>
+
+<p>&nbsp;</p>
+
+<p>10<sup>th</sup> of March for group demo.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Next week Mondayy, Tuesday, Wed Morn, Wed late &ndash; THURS is BAD.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Parent William Charles &ndash; Ragner Benson is a subsidiary&hellip;</p>
+
+<p>&nbsp;</p>
+
+<p>William Charles &ndash; Road building, Quarry&rsquo;s, close to home projects.</p>
+
+<p>&nbsp;</p>
+
+<p>Ragner Benson side &ndash; 2 groups &ndash; Civil &ndash; National Civil COnst &ndash; Site work and Earth works&nbsp; Industrial.</p>
+
+<p>Vertical construction group.</p>
+
+<p>&nbsp;</p>
+
+<p>Ragner started in the road and asphalt side, but then went to Vertical construction.&nbsp; Downtown elevated Rail projects,</p>
+
+<p>&nbsp;</p>
+
+<p>Civil &ndash; Rail (class one and commuter) Environmental Mediation, power and industrial</p>
+
+<p>Building Group &ndash; Off to the side.</p>
+
+<p>&nbsp;</p>
+
+<p>More traction with Ragner Benson Civil group.&nbsp; THIS IS OUR GROUP &ndash; 160 mil rev per year.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Evertyhthing NEW starts with Ragner benson.</p>
+
+<p>&nbsp;</p>
+
+<p>Same people would decide on William Charles.</p>
+
+<p>&nbsp;</p>
+
+<p>Ragner Benson Buildings &ndash; move to their own beat, but they resist most things&hellip;&nbsp; prob wont want CRM.&nbsp; Represent 15% of our rev &ndash; the website does a poor job of&nbsp;</p>","135762,664068,705186,703814,135762,664068,705186,703814,135762,664068,705186,703814",,"Jan Flesher,Andy Hughes,Jeff Meadows,Amy Villasana-Moore,Jan Flesher,Andy Hughes,Jeff Meadows,Amy Villasana-Moore,Jan Flesher,Andy Hughes,Jeff Meadows,Amy Villasana-Moore","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,PM: Procore,PM: Procore,PM: Procore,PM: Procore",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development",,,,,
+925806,Chandos Construction Upsell,2016-02-24 10:59:42.467,2016-04-19 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1385169,Chandos Construction,,,0.0000,600.0000,0.0000,,,,,,,,,,,,,,,,0,,,,"135762,661956,664068,144486",,"Jan Flesher,Archit Veeravalli,Andy Hughes,Lisa McClain Pitts","~None,~None,~None,~None",Construction,"Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer","Business Development,Business Development,Business Development,Business Development",,,,,
+925731,"PKF-Mark III, Inc.",2016-02-24 10:37:48.45,2016-04-05 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3031432,"PKF-Mark III, Inc.",2016-02-29 00:00:00.0,,0.0000,3400.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/4 contract out for sig</p>,"<p>Event Type: demo<br />
+Company: PKF-Mark III, Inc.<br />
+FullName: Ian Powdrill<br />
+Email: imp@pkfm.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:12159685031@null"" rel=""12159685031"" title=""Click-to-Call 2159685031"">2159685031</a><br />
+FormURL: http://www.cosential.com/demo/</p>","721442,721442",,"Oscar Reyna,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook","CRM,Business Development",Account Management,,,,
+925731,"PKF-Mark III, Inc.",2016-02-24 10:37:48.45,2016-04-05 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3031432,"PKF-Mark III, Inc.",2016-02-29 00:00:00.0,,0.0000,3400.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/4 contract out for sig</p>,"<p>Event Type: demo<br />
+Company: PKF-Mark III, Inc.<br />
+FullName: Ian Powdrill<br />
+Email: imp@pkfm.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:12159685031@null"" rel=""12159685031"" title=""Click-to-Call 2159685031"">2159685031</a><br />
+FormURL: http://www.cosential.com/demo/</p>","721442,721442",,"Oscar Reyna,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook","Business Development,CRM",Implementation,,,,
+925615,Aerotech Mapping Inc.,2016-02-23 19:18:06.567,2016-03-07 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2642362,"AeroTech Mapping, Inc",,,0.0000,7880.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Execute contract.</p>,,"664068,664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Surveying,"CRM : Salesforce.com,Accounting: QuickBooks,CRM : Salesforce.com,Accounting: QuickBooks","Business Development,Business Development,CRM,CRM",,,,,
+925483,Cleary Zimmermann Engineers,2016-02-23 15:07:43.273,2016-04-20 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1798121,Cleary Zimmermann Engineers,2016-03-29 00:00:00.0,,0.0000,5920.0000,0.0000,,,,,,,,,,,,,,,Commit,2286,Yes,<p>4/13 Contract out for Sig</p>,"<p>Event Type: ebook<br />
+Company: Cleary Zimmermann Engineers<br />
+FullName: Joyce Fienman<br />
+Email: JoyceF@clearyzimmermann.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:12104476100@null"" rel=""12104476100"" title=""Click-to-Call 2104476100"">2104476100</a><br />
+FormURL: http://www.cosential.com/ebooks/best-practices-for-a-successful-crm-implementation</p>","651940,664068,721442,651940,664068,721442,651940,664068,721442,651940,664068,721442,651940,664068,721442,651940,664068,721442,651940,664068,721442,651940,664068,721442,651940,664068,721442",,"Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna,Cody Rademacher,Andy Hughes,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,AD: Active Directory,AD: Active Directory,AD: Active Directory,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,AD: Active Directory,AD: Active Directory,AD: Active Directory,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,AD: Active Directory,AD: Active Directory,AD: Active Directory",Engineering,"Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development",,,,"No        ",
+925256,McCownGordon Construction,2016-02-23 10:49:50.167,2016-03-02 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1130740,McCownGordon Construction,2016-02-26 00:00:00.0,,0.0000,13400.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>2/26 sent pricing. Reached out to set up call to discuss pricing</p>,<p>2/26 ?Good demo. Requested pricing. Moving quickly</p>,"721442,721442,721442,721442,721442,721442,721442,721442,721442,721442,721442,721442",,"Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Timberline,Accounting : Timberline,CRM : Outlook,CRM : Outlook,Accounting : Timberline,Accounting : Timberline,Accounting : Timberline,Accounting : Timberline","Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management",,,,,
+924232,Jaster-Quintanilla (145) Deltek/Cosential Financial Data Connector [NEW 2016],2016-02-19 12:40:33.603,2016-04-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,220569,Jaster-Quintanilla,,,0.0000,1500.0000,0.0000,,,,,,,,,,,,,,,,0,,,,"21815,661956,664068",,"Christina Leahy,Archit Veeravalli,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector",Engineering,"Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer","Business Development,Business Development,Business Development",,,,,
+922513,CSI Electrical,2016-02-16 13:20:31.59,2016-03-30 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3008944,CSI Electrical,2016-02-16 00:00:00.0,,0.0000,28450.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>3/11 Bill OOO thru 3/17. Checking back on 3/18</p>,"<p>3/17 Bill is back in the office, meeting with committee to discuss options. Said to check back by Wednesday of next week if not before.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: CSI Electrical<br />
+FullName: Jason Watts<br />
+Email: Jason.Watts@csielectric.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:15629470700@null"" rel=""15629470700"" title=""Click-to-Call 562-947-0700"">562-947-0700</a><br />
+FormURL: http://www.cosential.com/demo/</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Engineering: Electrical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+921891,Cardno ( Pilot),2016-02-16 11:32:05.19,2016-04-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1131723,Cardno,2016-02-22 00:00:00.0,2016-04-07 00:00:00.0,0.0000,10000.0000,0.0000,,,,,,,,,,,,,,,,,,"<p>4/11 sent Monica pilot and full rollout proposal<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p>3/8 sent meeting request for Pilot cost discussion<br />
+&nbsp;</p>
+
+<p>\Call with technical contact on 2/25 with Dan</p>
+
+<p>&nbsp;</p>
+
+<p>2/22&nbsp;Good demo. Next demo will be with more stakeholders. Monica said to follow up on 3/2/16</p>","<p>2/24 call with technical person on 2/25</p>
+
+<p>Event Type: demo<br />
+Company: Cardno<br />
+FullName: Monica Moore<br />
+Email: monica.moore@cardno.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:19176534623@null"" rel=""19176534623"" title=""Click-to-Call 917-653-4623"">917-653-4623</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486",,"Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM",,,,,
+921891,Cardno ( Pilot),2016-02-16 11:32:05.19,2016-04-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1131723,Cardno,2016-02-22 00:00:00.0,2016-04-07 00:00:00.0,0.0000,10000.0000,0.0000,,,,,,,,,,,,,,,,,,"<p>4/11 sent Monica pilot and full rollout proposal<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p>3/8 sent meeting request for Pilot cost discussion<br />
+&nbsp;</p>
+
+<p>\Call with technical contact on 2/25 with Dan</p>
+
+<p>&nbsp;</p>
+
+<p>2/22&nbsp;Good demo. Next demo will be with more stakeholders. Monica said to follow up on 3/2/16</p>","<p>2/24 call with technical person on 2/25</p>
+
+<p>Event Type: demo<br />
+Company: Cardno<br />
+FullName: Monica Moore<br />
+Email: monica.moore@cardno.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:19176534623@null"" rel=""19176534623"" title=""Click-to-Call 917-653-4623"">917-653-4623</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486",,"Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Environmental,"CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development",,,,,
+921891,Cardno ( Pilot),2016-02-16 11:32:05.19,2016-04-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1131723,Cardno,2016-02-22 00:00:00.0,2016-04-07 00:00:00.0,0.0000,10000.0000,0.0000,,,,,,,,,,,,,,,,,,"<p>4/11 sent Monica pilot and full rollout proposal<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p>3/8 sent meeting request for Pilot cost discussion<br />
+&nbsp;</p>
+
+<p>\Call with technical contact on 2/25 with Dan</p>
+
+<p>&nbsp;</p>
+
+<p>2/22&nbsp;Good demo. Next demo will be with more stakeholders. Monica said to follow up on 3/2/16</p>","<p>2/24 call with technical person on 2/25</p>
+
+<p>Event Type: demo<br />
+Company: Cardno<br />
+FullName: Monica Moore<br />
+Email: monica.moore@cardno.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:19176534623@null"" rel=""19176534623"" title=""Click-to-Call 917-653-4623"">917-653-4623</a><br />
+FormURL: http://www.cosential.com/demo/</p>","651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486,651940,135762,721442,144486",,"Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts,Cody Rademacher,Jan Flesher,Oscar Reyna,Lisa McClain Pitts","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Professional Services,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST,Accounting : BST","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,CRM,CRM",,,,,
+920664,Raymond Engineering,2016-02-11 20:25:22.653,2016-04-27 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3009944,"Raymond Engineering-GA, LLC",2016-02-19 00:00:00.0,,0.0000,6660.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Going to nail down demo date. He is going to check his schedule tomorrow and let me know what his schedule looks like for next week.&nbsp;</p>,"<p>Event Type: demo<br />
+Company: Raymond Engineering<br />
+FullName: David Andrews<br />
+Email: david.andrews@raymondllc.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:14043993047@null"" rel=""14043993047"" title=""Click-to-Call 4043993047"">4043993047</a><br />
+FormURL: http://www.cosential.com/demo/</p>","721442,721442,721442,721442,721442,721442,721442,721442,721442,721442,721442,721442",,"Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna,Oscar Reyna","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Engineering,"CRM : Outlook,CRM : Outlook,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management",,,,,
+920492,SPEC service,2016-02-11 14:42:33.867,2016-05-26 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2874192,"SPEC Services, Inc.",2016-02-17 00:00:00.0,,0.0000,27000.0000,0.0000,,,20.0,15.0,,,,,,,,20000.0000,,,Commit,,,"<p>Demo went well- Justin wants follow up first week of March.&nbsp;</p>
+
+<p><span style=""line-height: 1.6em;"">demo on the 2/17 @4PM CT</span></p>","<p>Event Type: demo<br />
+Company: SPEC Services<br />
+FullName: Justin Hunter<br />
+Email: jhunter@specservices.com<br />
+Phone: <a class=""onsip-click-to-call"" extension=""null"" href=""onsip:17144212397@null"" rel=""17144212397"" title=""Click-to-Call 714-421-2397"">714-421-2397</a><br />
+FormURL: http://www.cosential.com/demo/</p>","703814,721442,703814,721442,703814,721442",,"Amy Villasana-Moore,Oscar Reyna,Amy Villasana-Moore,Oscar Reyna,Amy Villasana-Moore,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"Accounting : Infocus,Accounting : Infocus,Accounting : Infocus,Accounting : Infocus,Accounting : Infocus,Accounting : Infocus","Business Development,Business Development,Marketing Management,Marketing Management,CRM,CRM",,,,,
+920053,"Armstrong Consultants, Inc.",2016-02-10 16:32:22.68,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1856624,"Armstrong Consultants, Inc.",2016-02-19 00:00:00.0,,0.0000,9760.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/6 Contract out for sig</p>,<p>3/17 we are the pick. Trying to get done in March but may not be able to.&nbsp;</p>,"135762,721442,705186,135762,721442,705186,135762,721442,705186",,"Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM",Account Management,,31-100,,
+920053,"Armstrong Consultants, Inc.",2016-02-10 16:32:22.68,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1856624,"Armstrong Consultants, Inc.",2016-02-19 00:00:00.0,,0.0000,9760.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/6 Contract out for sig</p>,<p>3/17 we are the pick. Trying to get done in March but may not be able to.&nbsp;</p>,"135762,721442,705186,135762,721442,705186,135762,721442,705186",,"Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development",Marketing,,31-100,,
+920053,"Armstrong Consultants, Inc.",2016-02-10 16:32:22.68,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1856624,"Armstrong Consultants, Inc.",2016-02-19 00:00:00.0,,0.0000,9760.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/6 Contract out for sig</p>,<p>3/17 we are the pick. Trying to get done in March but may not be able to.&nbsp;</p>,"135762,721442,705186,135762,721442,705186,135762,721442,705186",,"Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering: Structural,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Business Development,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management",Account Management,,31-100,,
+920053,"Armstrong Consultants, Inc.",2016-02-10 16:32:22.68,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1856624,"Armstrong Consultants, Inc.",2016-02-19 00:00:00.0,,0.0000,9760.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>4/6 Contract out for sig</p>,<p>3/17 we are the pick. Trying to get done in March but may not be able to.&nbsp;</p>,"135762,721442,705186,135762,721442,705186,135762,721442,705186",,"Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows,Jan Flesher,Oscar Reyna,Jeff Meadows","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering: Structural,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM,Business Development,Business Development,Business Development",Marketing,,31-100,,
+918655,Slack & Co Upsell,2016-02-08 09:45:01.997,2016-04-19 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2120360,Slack & Co Contracting Inc,,,0.0000,14400.0000,0.0000,,,,,,,,720.0000,,,10,,,,,0,,,,"661956,661956",,"Archit Veeravalli,Archit Veeravalli","~None,~None",Construction,"Cosential - Current Customer,Cosential - Current Customer","Business Development,CRM",,,,,
+918653,Skiles Group Upsell,2016-02-08 09:42:36.633,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2061837,"Skiles Group, Inc.",,,0.0000,720.0000,0.0000,,,,,,,,720.0000,,,1,,,,,0,,,,"661956,661956",,"Archit Veeravalli,Archit Veeravalli","~None,~None",Engineering,"Cosential - Current Customer,Cosential - Current Customer","Business Development,Marketing Management",,,,,
+918645,HMFH Architects Upsell,2016-02-08 09:35:45.173,2016-05-10 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2034336,"HMFH Architects, Inc.",,,0.0000,8940.0000,8940.0000,,,,,,,,720.0000,,,13,,,,Commit,,,,,661956,,Archit Veeravalli,~None,Architecture,Cosential - Current Customer,Business Development,,,,,
+918638,Haskell Upsell,2016-02-08 09:32:25.257,2016-04-08 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,18251,Haskell,,,0.0000,3600.0000,0.0000,,,,,,,,720.0000,,,8,,,,,0,,,,661956,,Archit Veeravalli,~None,Architecture/Engineering (A/E),Cosential - Current Customer,Business Development,,,,,
+918016,Naples Flooring Company,2016-02-05 13:01:31.313,2016-03-31 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,3004484,Naples Flooring Company,,,0.0000,5000.0000,0.0000,,,,,,,,,,,,,,,,0,,,"<p>Web search &ndash; CRM that&rsquo;s oriented to projects.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Your lead process &ndash;</p>
+
+<p><span style=""line-height: 1.6em;"">Get a lead , do a proposal.&nbsp; Send the plans.</span></p>
+
+<p>&nbsp;</p>
+
+<p>What kind of info do you have in your proposals.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Materials.&nbsp; Sq footage, price.&nbsp; Labor, payment.&nbsp; Quote not a proposal.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Hardwood floor installers.</p>
+
+<p><span style=""line-height: 1.6em;"">Quickbooks.&nbsp; Likely too small.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">We are very small.&nbsp; 7 ppl.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Changing our business model.&nbsp; Getting bigger, working closer with businesses.&nbsp; We are expanding and hard to keep track of the info.&nbsp; Give the installers the tools to find more business.&nbsp; Using it from the field. &nbsp;Keep track of the emails.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>Change orders.&nbsp; Painful.&nbsp; Need to change real time from the field.&nbsp; Keep everybody on the same page.&nbsp; Calendar of our projects.&nbsp; What projects are coming up on what size and schedule?&nbsp; Need to allocate people.&nbsp;</p>
+
+<p><span style=""line-height: 1.6em;"">My boss suggesting that we can use a system.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">We work with paper notes and reminders.&nbsp; Stuff gets lost.&nbsp; Overlooked.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">His job is to get the plans and come up with sq footage and respond to proposal and track the acceptance of that proposal.&nbsp; Then we have to invoice the materials at 50%.&nbsp; Need to get that money received and schedule the job.&nbsp; Then prior to starting installation, we require the next 50% of material.&nbsp; We go and install.&nbsp; Then they pay the final balance.&nbsp; Needs workflow.&nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>Demo &ndash; This week.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Naples Flooring Company<br />
+FullName: Alex Ledesma<br />
+Email: naplesflooring@gmail.com<br />
+Phone: 2392771213<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,664068",,"Cody Rademacher,Andy Hughes",,,,,,,,,
+917707,Davenport Upsell,2016-02-04 15:59:12.34,2016-02-04 15:59:12.34,006-Signed MSA,2,Closed/Won,1,0,1297611,Davenport,,,0.0000,285.0000,0.0000,,,,,,,19.0000,,,,,,5,,,,,,,661956,,Archit Veeravalli,~None,,Cosential - Current Customer,,,,,,
+916964,"MB Contractors, Inc.",2016-02-03 10:30:45.737,2016-02-22 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3031805,"MB Contractors, Inc.",,,0.0000,3540.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Sent updated proposal to Carrisa without DC cost. Called to confirm this was all she needed and she said yes. Said contract should be signed by EOW</p>,"<p>Notes from Demo - </p>
+
+<p>Past client</p>
+
+<p><span style=""line-height: 1.6em;"">How is everything displayed on mobile app?</span></p>
+
+<p><span style=""line-height: 1.6em;"">Can I view all people connected to opportunity on mobile app?</span></p>
+
+<p><span style=""line-height: 1.6em;"">I want!!</span></p>
+
+<p><span style=""line-height: 1.6em;"">Does driving directions integrate with your car GPS?</span></p>
+
+<p><span style=""line-height: 1.6em;"">Mobile note taking important via voice command. Solved every problem she had. She would use all of that.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Business card scanner light interest.  </span></p>
+
+<p><span style=""line-height: 1.6em;"">How can we contact people for an event? Perfect with the ability to log and auto updated based on response i.e accepted/declined etc.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Go/No Go - Probabilities to determine marketing/biz dev efforts</span></p>
+
+<p><span style=""line-height: 1.6em;"">""Very organized and powerful. You get out of it what you put into it.""</span></p>
+
+<p><span style=""line-height: 1.6em;"">Implementation - fundamentals are already here. We know your business.</span></p>
+
+<p><span style=""line-height: 1.6em;"">""Not reinventing the wheel right now"". Efficiency </span></p>
+
+<p><span style=""line-height: 1.6em;"">What do we need to chase after? Good method for scoring and ranking using past data. Go/No GO</span></p>
+
+<p><span style=""line-height: 1.6em;"">Dedicated BD folks. Need more dooer/seller</span></p>
+
+<p><span style=""line-height: 1.6em;"">Tracking RFP important</span></p>
+
+<p> </p>
+
+<p><span style=""line-height: 1.6em;"">Disc Call Notes - </span></p>
+
+<p>Carissa is driving in the rain. </p>
+
+<p> </p>
+
+<p>Mobile ap is VERY important. </p>
+
+<p><span style=""line-height: 1.6em;"">My company had used Cosential 5 years ago before I was part of it. </span></p>
+
+<p><span style=""line-height: 1.6em;"">They killed it bc they lost their OFA.</span></p>
+
+<p><span style=""line-height: 1.6em;"">I came along and was the sales leader – relationship leader.  Getting into new markets.  Utilized outlook business contact manager.  Has manipulated it a lot. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Lots of time on the road.  Has to sit in her office</span></p>
+
+<p><span style=""line-height: 1.6em;"">May be others – my assistant. He has a lot of responsibilities.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Another office 3 hours away.  The VP is doing some sales. </span></p>
+
+<p><span style=""line-height: 1.6em;"">She does the proposals too.  Estimating puts the numbers. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Goes back to the office to discuss proposals. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Contact manager sits on Outlook.</span></p>
+
+<p><span style=""line-height: 1.6em;"">For the sake of argument – tracking info on jobs. </span></p>
+
+<p><span style=""line-height: 1.6em;"">100 yr old company.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accubuild – Accounting software</span></p>
+
+<p><span style=""line-height: 1.6em;"">Monday at 9 am. Demo - focus on CRM and Mobile - still show the prop automation stuff just to plant the seed.</span></p>
+
+<p>Event Type: demo<br />
+Company: MB Contractors, Inc.<br />
+FullName: Carissa Mulahn<br />
+Email: cmulahn@mbcontractors.com<br />
+Phone: 540 342 6758<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Architecture,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Marketing Management,Marketing Management",Marketing,,,,
+916964,"MB Contractors, Inc.",2016-02-03 10:30:45.737,2016-02-22 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3031805,"MB Contractors, Inc.",,,0.0000,3540.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Sent updated proposal to Carrisa without DC cost. Called to confirm this was all she needed and she said yes. Said contract should be signed by EOW</p>,"<p>Notes from Demo - </p>
+
+<p>Past client</p>
+
+<p><span style=""line-height: 1.6em;"">How is everything displayed on mobile app?</span></p>
+
+<p><span style=""line-height: 1.6em;"">Can I view all people connected to opportunity on mobile app?</span></p>
+
+<p><span style=""line-height: 1.6em;"">I want!!</span></p>
+
+<p><span style=""line-height: 1.6em;"">Does driving directions integrate with your car GPS?</span></p>
+
+<p><span style=""line-height: 1.6em;"">Mobile note taking important via voice command. Solved every problem she had. She would use all of that.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Business card scanner light interest.  </span></p>
+
+<p><span style=""line-height: 1.6em;"">How can we contact people for an event? Perfect with the ability to log and auto updated based on response i.e accepted/declined etc.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Go/No Go - Probabilities to determine marketing/biz dev efforts</span></p>
+
+<p><span style=""line-height: 1.6em;"">""Very organized and powerful. You get out of it what you put into it.""</span></p>
+
+<p><span style=""line-height: 1.6em;"">Implementation - fundamentals are already here. We know your business.</span></p>
+
+<p><span style=""line-height: 1.6em;"">""Not reinventing the wheel right now"". Efficiency </span></p>
+
+<p><span style=""line-height: 1.6em;"">What do we need to chase after? Good method for scoring and ranking using past data. Go/No GO</span></p>
+
+<p><span style=""line-height: 1.6em;"">Dedicated BD folks. Need more dooer/seller</span></p>
+
+<p><span style=""line-height: 1.6em;"">Tracking RFP important</span></p>
+
+<p> </p>
+
+<p><span style=""line-height: 1.6em;"">Disc Call Notes - </span></p>
+
+<p>Carissa is driving in the rain. </p>
+
+<p> </p>
+
+<p>Mobile ap is VERY important. </p>
+
+<p><span style=""line-height: 1.6em;"">My company had used Cosential 5 years ago before I was part of it. </span></p>
+
+<p><span style=""line-height: 1.6em;"">They killed it bc they lost their OFA.</span></p>
+
+<p><span style=""line-height: 1.6em;"">I came along and was the sales leader – relationship leader.  Getting into new markets.  Utilized outlook business contact manager.  Has manipulated it a lot. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Lots of time on the road.  Has to sit in her office</span></p>
+
+<p><span style=""line-height: 1.6em;"">May be others – my assistant. He has a lot of responsibilities.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Another office 3 hours away.  The VP is doing some sales. </span></p>
+
+<p><span style=""line-height: 1.6em;"">She does the proposals too.  Estimating puts the numbers. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Goes back to the office to discuss proposals. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Contact manager sits on Outlook.</span></p>
+
+<p><span style=""line-height: 1.6em;"">For the sake of argument – tracking info on jobs. </span></p>
+
+<p><span style=""line-height: 1.6em;"">100 yr old company.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accubuild – Accounting software</span></p>
+
+<p><span style=""line-height: 1.6em;"">Monday at 9 am. Demo - focus on CRM and Mobile - still show the prop automation stuff just to plant the seed.</span></p>
+
+<p>Event Type: demo<br />
+Company: MB Contractors, Inc.<br />
+FullName: Carissa Mulahn<br />
+Email: cmulahn@mbcontractors.com<br />
+Phone: 540 342 6758<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Architecture/Engineering (A/E),"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Marketing Management,Marketing Management,Business Development,Business Development",Marketing,,,,
+916964,"MB Contractors, Inc.",2016-02-03 10:30:45.737,2016-02-22 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3031805,"MB Contractors, Inc.",,,0.0000,3540.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Sent updated proposal to Carrisa without DC cost. Called to confirm this was all she needed and she said yes. Said contract should be signed by EOW</p>,"<p>Notes from Demo - </p>
+
+<p>Past client</p>
+
+<p><span style=""line-height: 1.6em;"">How is everything displayed on mobile app?</span></p>
+
+<p><span style=""line-height: 1.6em;"">Can I view all people connected to opportunity on mobile app?</span></p>
+
+<p><span style=""line-height: 1.6em;"">I want!!</span></p>
+
+<p><span style=""line-height: 1.6em;"">Does driving directions integrate with your car GPS?</span></p>
+
+<p><span style=""line-height: 1.6em;"">Mobile note taking important via voice command. Solved every problem she had. She would use all of that.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Business card scanner light interest.  </span></p>
+
+<p><span style=""line-height: 1.6em;"">How can we contact people for an event? Perfect with the ability to log and auto updated based on response i.e accepted/declined etc.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Go/No Go - Probabilities to determine marketing/biz dev efforts</span></p>
+
+<p><span style=""line-height: 1.6em;"">""Very organized and powerful. You get out of it what you put into it.""</span></p>
+
+<p><span style=""line-height: 1.6em;"">Implementation - fundamentals are already here. We know your business.</span></p>
+
+<p><span style=""line-height: 1.6em;"">""Not reinventing the wheel right now"". Efficiency </span></p>
+
+<p><span style=""line-height: 1.6em;"">What do we need to chase after? Good method for scoring and ranking using past data. Go/No GO</span></p>
+
+<p><span style=""line-height: 1.6em;"">Dedicated BD folks. Need more dooer/seller</span></p>
+
+<p><span style=""line-height: 1.6em;"">Tracking RFP important</span></p>
+
+<p> </p>
+
+<p><span style=""line-height: 1.6em;"">Disc Call Notes - </span></p>
+
+<p>Carissa is driving in the rain. </p>
+
+<p> </p>
+
+<p>Mobile ap is VERY important. </p>
+
+<p><span style=""line-height: 1.6em;"">My company had used Cosential 5 years ago before I was part of it. </span></p>
+
+<p><span style=""line-height: 1.6em;"">They killed it bc they lost their OFA.</span></p>
+
+<p><span style=""line-height: 1.6em;"">I came along and was the sales leader – relationship leader.  Getting into new markets.  Utilized outlook business contact manager.  Has manipulated it a lot. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Lots of time on the road.  Has to sit in her office</span></p>
+
+<p><span style=""line-height: 1.6em;"">May be others – my assistant. He has a lot of responsibilities.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Another office 3 hours away.  The VP is doing some sales. </span></p>
+
+<p><span style=""line-height: 1.6em;"">She does the proposals too.  Estimating puts the numbers. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Goes back to the office to discuss proposals. </span></p>
+
+<p><span style=""line-height: 1.6em;"">Contact manager sits on Outlook.</span></p>
+
+<p><span style=""line-height: 1.6em;"">For the sake of argument – tracking info on jobs. </span></p>
+
+<p><span style=""line-height: 1.6em;"">100 yr old company.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accubuild – Accounting software</span></p>
+
+<p><span style=""line-height: 1.6em;"">Monday at 9 am. Demo - focus on CRM and Mobile - still show the prop automation stuff just to plant the seed.</span></p>
+
+<p>Event Type: demo<br />
+Company: MB Contractors, Inc.<br />
+FullName: Carissa Mulahn<br />
+Email: cmulahn@mbcontractors.com<br />
+Phone: 540 342 6758<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Marketing Management,Marketing Management",Marketing,,,,
+916957,IMC Construction Upsell,2016-02-03 10:21:45.9,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1312404,IMC Construction,,,0.0000,1440.0000,0.0000,,,,,,,,720.0000,,,1,,,,,0,,,,661956,,Archit Veeravalli,~None,,Cosential - Current Customer,,,,,,
+916942,Russell Standard Corp.,2016-02-03 10:04:45.627,2016-03-29 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2992679,Russell Standard Corp.,,,0.0000,10040.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get Contract signed.</p>,"<p>Excellent demo - Sending fu materials and requesting next steps for after he meets with his team this week. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Setting a demo - great disco call. &nbsp;Driven to us by Viewpoint. &nbsp;Ready to rock and roll. &nbsp;Was using Dynamix and has had a poor experience and VP said to switch to us...</p>
+
+<p>&nbsp;</p>
+
+<p>Seems to go by Junior</p>
+
+<p>&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Russell Standard Corp.<br />
+FullName: John Shutsa (Junior)<br />
+Email: john.shutsa@russellstandard.com<br />
+Phone: 3302832871<br />
+FormURL: http://www.cosential.com/demo/</p>","664068,664068,664068,664068,664068,664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Microsoft Dynamic,CRM : Microsoft Dynamic,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Microsoft Dynamic,CRM : Microsoft Dynamic","CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development",,,,,
+916716,Freese and Nichols Upsell,2016-02-02 15:07:23.43,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,866563,Freese and Nichols,,,0.0000,720.0000,0.0000,,,,,,,,720.0000,,,1,,,,,0,,,,661956,,Archit Veeravalli,~None,,Cosential - Current Customer,,,,,,
+916587,"Bernardin, Lochmueller and Associates Upsell",2016-02-02 12:51:24.643,2016-03-29 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,520906,"Bernardin, Lochmueller and Associates, Inc.",,,0.0000,1440.0000,0.0000,,,,,,,,,,,2,,,,,0,,,,661956,,Archit Veeravalli,~None,,Cosential - Current Customer,,,,,,
+916570,Joeris Upsell,2016-02-02 12:40:00.72,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1131319,Joeris General Contractors,,,0.0000,720.0000,0.0000,,,,,,,,,,,1,,,,,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,,,,,,
+916171,JB Henderson Upsell,2016-02-01 17:13:20.383,2016-01-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1143684,J.B. Henderson Construction Company,,,0.0000,180.0000,0.0000,,,,,,,,,,,1,,,,,,,,,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,,,,,,
+915855,MTech Mechanical,2016-02-01 11:44:54.7,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1130824,MTech Mechanical Technologies Group,,,0.0000,23220.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>IMPLEMENT</p>,"<p>We heard about it last year, watched a couple webinars.&nbsp; Now its better timing.</p>
+
+<p>&nbsp;</p>
+
+<p>Already use Dynamix &ndash; implemented in early 2013.&nbsp;&nbsp; Looking to replace.</p>
+
+<p>&nbsp;</p>
+
+<p>Everyone feels like we aren&rsquo;t using it to our potential.</p>
+
+<p>&nbsp;</p>
+
+<p>Square peg, round hole.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Marketing Manager &ndash; been here 10 years.&nbsp; Used to sales support &ndash; doing proposals.</p>
+
+<p>&nbsp;</p>
+
+<p>Involved in the Dynamix implementation.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Selfishly excited about Proposal stuff.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>2 ppl doing it now,</p>
+
+<p>&nbsp;</p>
+
+<p>Axs db trying to track processes.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sales team needs to focus on the CRM stuff.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Old process &ndash; Salesman fills out estimating request form, goes to Gina and to the estimator, Handwritten notes, Monday meeting, Monday meeting.</p>
+
+<p>&nbsp;</p>
+
+<p>Dynamix helped this process a bit&hellip;</p>
+
+<p>&nbsp;</p>
+
+<p>Stages, go no go, better with Dynamix.</p>
+
+<p>&nbsp;</p>
+
+<p>What jobs are in estimating dept now and what are those due dates.&nbsp; See bottlenecks.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Big Construction &ndash; Pre-Con managers &ndash; degreed engineers.&nbsp; Source the project and stay with it.&nbsp; Design phase only.&nbsp; &ndash; 4 of them.&nbsp; Heavy in design build &ndash; in house engineers.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Special Project side &ndash; stay with it through the full build.&nbsp;&nbsp; &ndash; Client Reps &ndash; 6 &ndash; under a million bucks or small quick things.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>2 in marketing &ndash; her peer does the proposals.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Just implemented an LMS system.</p>
+
+<p>&nbsp;</p>
+
+<p>Big picture.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Implemented Viewpoint &ndash; Went live January of &lsquo;15.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Some ppl love it, some wish they had TCMS.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We asked some marketing peers &ndash; JE Dunn &ndash; Told us Cosential.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>IT Manager watched the webinar.&nbsp; Says he is skeptical Inbounds.</p>
+
+<p>&nbsp;</p>
+
+<p>Requirements &ndash;</p>
+
+<p>&nbsp;</p>
+
+<ol>
+	<li>MS 365 hosted exchange.&nbsp; &ndash; can we integrate.</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<ol>
+	<li value=""2"">Cell phones and sync.&nbsp;&nbsp;</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p>I had put their opp in nuture from lack of response, but she emailed saying they are almost ready for a demo.&nbsp; Asked for a recorded PA webinar first.&nbsp;</p>","651940,664068,651940,664068,651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Engineering: Mechanical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,,,
+915849,MGAC,2016-02-01 11:34:41.313,2016-02-29 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2952842,MGAC,,,0.0000,3960.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>2/12 sent an updated proposal for Andy</p>,"<p>Washington,&nbsp;DC&nbsp;20001<br />
+O:&nbsp;202.942.4463<br />
+M:&nbsp;202.603.9709</p>
+
+<p>&nbsp;</p>
+
+<p>Perfect.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Demonstration still needed.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Requirements &ndash;</p>
+
+<p>Boss is a she.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We have a db for accounting.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Biz Dev has their own db.</p>
+
+<p>&nbsp;</p>
+
+<p>Strictly for Marketing &ndash; for marketing info for proposals.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Prob not looking at FDC.&nbsp; Maybe for accounting.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Free entry into cosential.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Getting a new accounting system.&nbsp; Microsoft Dynamix.&nbsp; Won&rsquo;t need all of the info &ndash; just personaell, fee, - we will store our own descpriptions.&nbsp; Resumes, write ups, different versions, pics,</p>
+
+<p>&nbsp;</p>
+
+<p>Not biz Dev.&nbsp; 2 ppl upto 5 maybe.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Not much we&rsquo;d want to add in.&nbsp; maybe top 50 projects.&nbsp; From a spreadsheet.</p>
+
+<p>&nbsp;</p>
+
+<p>Resumes are in in design.&nbsp; Need to get them into Cosential.</p>
+
+<p>&nbsp;</p>
+
+<p>Less than 100 resume files.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>No db for pics and other marketing assets.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Less than 1500.&nbsp; In implementation costs.</p>
+
+<p>&nbsp;</p>
+
+<p>Doc storage.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Want to see the full proposal publishing.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Washington DC</p>
+
+<p>Emailed Dan:</p>
+
+<p>Hello!</p>
+
+<p>My team is interested in learning more about Cosential.&nbsp; We have attended a few of the free webinars about the product over the last month.&nbsp; We are particularly interested in learning more about the implementation services and the cost of implementation.&nbsp; We are looking to move forward quickly as we have already looked into other CRM programs and feel this one best suits our needs.&nbsp; Please let me know when someone is available.</p>
+
+<p>Sincerely,<br />
+Melissa Blum</p>","651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","~None,~None,~None,~None",Construction,"Accounting: Microsoft AX,Accounting: Microsoft AX,CRM : Salesforce.com,CRM : Salesforce.com","Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+915800,B&I Contractors,2016-02-01 10:51:21.363,2016-03-02 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2986219,B&I Contractors,,,0.0000,13500.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Demo set for Tuesday. &nbsp;</p>,"<p>Ready to learn &ndash;</p>
+
+<p>&nbsp;</p>
+
+<p>Came across by searching online.</p>
+
+<p>&nbsp;</p>
+
+<p>Looked at SFDC.&nbsp; Too complex.&nbsp; Too Much</p>
+
+<p>&nbsp;</p>
+
+<p>Sales Nexis &ndash; strong on implmenetation.&nbsp; Geared toward many different industries.</p>
+
+<p>&nbsp;</p>
+
+<p>Viewpoint &ndash; Told us about the partnership &ndash; really big plus.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Using Viewpoint as a cRM</p>
+
+<p>&nbsp;</p>
+
+<p>Quoting tool and CRM.&nbsp; Quoting tool is most important.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Struggle with creating quotes &ndash; takes forever.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Web based and mobile app is important.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Quick quote without having to set up a big process.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>What goes into a quote?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Service dept went from 5-10 mil rev over last few years.</p>
+
+<p>&nbsp;</p>
+
+<p>Quoting portion is most important.</p>
+
+<p>&nbsp;</p>
+
+<p>They are pulling the info from the same spreadsheets.&nbsp; No standardized quoting method.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Want to deliver quick quotes on site.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>10 Users - Paul would be an admin.</p>
+
+<p>&nbsp;</p>
+
+<p>ASAP.&nbsp; Sales manager.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: B&amp;I Contractors<br />
+FullName: Paul Arreaga<br />
+Email: parreaga@bandiflorida.com<br />
+Phone: 2393442791<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Speciality Sub Contractor - Electrical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development",,,101-300,,
+915800,B&I Contractors,2016-02-01 10:51:21.363,2016-03-02 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2986219,B&I Contractors,,,0.0000,13500.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Demo set for Tuesday. &nbsp;</p>,"<p>Ready to learn &ndash;</p>
+
+<p>&nbsp;</p>
+
+<p>Came across by searching online.</p>
+
+<p>&nbsp;</p>
+
+<p>Looked at SFDC.&nbsp; Too complex.&nbsp; Too Much</p>
+
+<p>&nbsp;</p>
+
+<p>Sales Nexis &ndash; strong on implmenetation.&nbsp; Geared toward many different industries.</p>
+
+<p>&nbsp;</p>
+
+<p>Viewpoint &ndash; Told us about the partnership &ndash; really big plus.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Using Viewpoint as a cRM</p>
+
+<p>&nbsp;</p>
+
+<p>Quoting tool and CRM.&nbsp; Quoting tool is most important.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Struggle with creating quotes &ndash; takes forever.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Web based and mobile app is important.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Quick quote without having to set up a big process.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>What goes into a quote?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Service dept went from 5-10 mil rev over last few years.</p>
+
+<p>&nbsp;</p>
+
+<p>Quoting portion is most important.</p>
+
+<p>&nbsp;</p>
+
+<p>They are pulling the info from the same spreadsheets.&nbsp; No standardized quoting method.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Want to deliver quick quotes on site.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>10 Users - Paul would be an admin.</p>
+
+<p>&nbsp;</p>
+
+<p>ASAP.&nbsp; Sales manager.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: B&amp;I Contractors<br />
+FullName: Paul Arreaga<br />
+Email: parreaga@bandiflorida.com<br />
+Phone: 2393442791<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Speciality Sub Contractor - Mechanical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,101-300,,
+915142,Rider Levett Bucknall Upsell,2016-01-28 17:45:49.657,2016-03-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,916327,Rider Levett Bucknall,,,0.0000,720.0000,0.0000,,,,,,,,,,,1,,,,,,,,<p>takes effect upon their renewal in April</p>,661956,,Archit Veeravalli,~None,Construction,Cosential - Current Customer,Business Development,,,,,
+915110,Lear Construction Management Limited,2016-01-28 17:09:15.873,2016-03-31 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,2990151,Lear Construction Management Limited,,,0.0000,5000.0000,0.0000,,,,,,,,,,,,,,,,0,,,"<p style=""line-height: 20.8px;"">Aussie</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Referred to us by a review page.&nbsp; Software Advice.</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">I understanding.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Situation is &ndash; We already have a PM software.&nbsp; Spectrum.&nbsp; Accounting and PM.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">What we need is the CRM.&nbsp; And database for your clientele.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Jason is the Biz Dev Director &ndash; Sales responsibilities.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Jason does the proposals as well.&nbsp; Coordinates with other.</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">His role is to make the intro &ndash; depending on the project type, the relationship will be managed by different people.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Had a couple calls &ndash; Sage &ndash; Started talking to J2 but it wasn&rsquo;t compatible.&nbsp; Bullhorn was going well&hellip;&nbsp; BUT, the guy got agitated and didn&rsquo;t appreciate the constructive critism.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Office 365.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Has used CRM for a long time &ndash; former recruiter.</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Live demo and costs. &ndash; 5 users likely.&nbsp; Jason will be the power user.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Really hoping for simplicity of use.&nbsp; Married up with Outlook.&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Wants to move. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Lear Construction Management Limited<br />
+Contact name:&nbsp;&nbsp; &nbsp;Jason Elvy<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Manager<br />
+Direct:&nbsp;&nbsp; &nbsp;(403) 250-3818x116<br />
+Email:&nbsp;&nbsp; &nbsp;jason.elvy@learconstruction.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.learconstruction.com<br />
+Address:&nbsp;&nbsp; &nbsp;4200 - 10th Street Northeast<br />
+City:&nbsp;&nbsp; &nbsp;Calgary<br />
+State:&nbsp;&nbsp; &nbsp;AB<br />
+ZIP code:&nbsp;&nbsp; &nbsp;T2E 6K3<br />
+Country:&nbsp;&nbsp; &nbsp;Canada<br />
+Timestamp:&nbsp;&nbsp; &nbsp;1/28/16 15:07 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Construction - B2B. Commercial construction GC, design/build, and construction management services.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$6 million to $25 million<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;21 to 50 employees. 40 employees.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;2 to 5 users. They want to pilot for about a month with about one user and make the decision to finalize for five users at the end of the month.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;This buyer wants a system to track accounts and new business contact details, meeting notes, track contacts with specific clients, track interaction notes, and track follow-up reminders. They don&#39;t need much in the way of marketing features. The tracking is the biggest factor for them. They don&#39;t want something overly complicated.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Web-based<br />
+Currently using:&nbsp;&nbsp; &nbsp;Spreadsheets and Outlook.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;Jason manages the whole sales team and wants to give a tool to help the team with followups and keeping track of contact info.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;Salesforce.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Screened for $65/user/month plus setup.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;They want to start piloting systems immediately.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Price Quote<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;Call any time. His voice mail message says the wrong name in the company voice menu.<br />
+Contact notes:&nbsp;&nbsp; &nbsp;Jason will make the final selection but will have to take a final weigh in to the financial team for approval.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Dave</p>",651940,,Cody Rademacher,,,,,,,,,
+914319,Helix Electric Upsell,2016-01-27 10:45:32.693,2016-02-26 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2591705,Helix Electric,,,0.0000,15120.0000,0.0000,,,,,,,,,,,21,,,,,0,,,,"661956,661956,661956",,"Archit Veeravalli,Archit Veeravalli,Archit Veeravalli","~None,~None,~None",Engineering: Electrical,"Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer","Business Development,Marketing Management,CRM",,,,,
+914319,Helix Electric Upsell,2016-01-27 10:45:32.693,2016-02-26 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2591705,Helix Electric,,,0.0000,15120.0000,0.0000,,,,,,,,,,,21,,,,,0,,,,"661956,661956,661956",,"Archit Veeravalli,Archit Veeravalli,Archit Veeravalli","~None,~None,~None",Speciality Sub Contractor - Electrical,"Cosential - Current Customer,Cosential - Current Customer,Cosential - Current Customer","Business Development,Marketing Management,CRM",,,,,
+914255,Steele & Freeman,2016-01-27 09:35:28.617,2016-05-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2985586,Steele & Freeman,2016-02-24 00:00:00.0,,0.0000,3247.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Call with Karen on 3/25</p>,"<p>Demo set for 2/24&nbsp;<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p>See Software advice notes.</p>
+
+<p>Full demo is perfect. &nbsp;</p>
+
+<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Steele &amp; Freeman<br />
+Contact name:&nbsp;&nbsp; &nbsp;Karen Benson<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Director<br />
+Office:&nbsp;&nbsp; &nbsp;(817) 232-4742<br />
+Email:&nbsp;&nbsp; &nbsp;kbenson@steelefreeman.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.steelefreeman.com<br />
+Address:&nbsp;&nbsp; &nbsp;1301 Lawson Road<br />
+City:&nbsp;&nbsp; &nbsp;Fort Worth<br />
+State:&nbsp;&nbsp; &nbsp;TX<br />
+ZIP code:&nbsp;&nbsp; &nbsp;76114<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;1/21/16 13:12 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Construction - B2B. Commercial construction company that is a design/build construction manager and general contractor.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$26 million to $50 million. $30M.<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;21 to 50 employees. 49 employees.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;2 to 5 users. 3 users.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;This buyer wants a system that will track contacts with owners, architect,s and engineers, set followups, track appointments, and affiliate projects with contacts. User friendliness is important to this buyer. In depth reporting isn&#39;t necessarily a selling point here.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Not Determined<br />
+Currently using:&nbsp;&nbsp; &nbsp;Spreadsheets and binders.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;Keeping track of contacts and followups is very difficult to do.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;Nothing yet.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Screened for $65/user/month plus setup.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;Within a few months. They&#39;re in the very early stages.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Price Quote<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;Don&#39;t call today or tomorrow (1/21-22). She&#39;ll be upset if you do because she has a family member in the hospital and she&#39;ll be waiting on calls regarding that in her spare time. Call around 4:00pm-5:00pm CST on Monday or Tuesday (1/25-26).<br />
+Contact notes:&nbsp;&nbsp; &nbsp;Karen will ultimately be the final decision maker with input from other key executives.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Dave</p>","651940,122605,721442,651940,122605,721442,651940,122605,721442,651940,122605,721442,651940,122605,721442,651940,122605,721442",,"Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS)",Architecture,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+914255,Steele & Freeman,2016-01-27 09:35:28.617,2016-05-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2985586,Steele & Freeman,2016-02-24 00:00:00.0,,0.0000,3247.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Call with Karen on 3/25</p>,"<p>Demo set for 2/24&nbsp;<br />
+<br />
+<br />
+&nbsp;</p>
+
+<p>See Software advice notes.</p>
+
+<p>Full demo is perfect. &nbsp;</p>
+
+<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Steele &amp; Freeman<br />
+Contact name:&nbsp;&nbsp; &nbsp;Karen Benson<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Director<br />
+Office:&nbsp;&nbsp; &nbsp;(817) 232-4742<br />
+Email:&nbsp;&nbsp; &nbsp;kbenson@steelefreeman.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.steelefreeman.com<br />
+Address:&nbsp;&nbsp; &nbsp;1301 Lawson Road<br />
+City:&nbsp;&nbsp; &nbsp;Fort Worth<br />
+State:&nbsp;&nbsp; &nbsp;TX<br />
+ZIP code:&nbsp;&nbsp; &nbsp;76114<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;1/21/16 13:12 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Construction - B2B. Commercial construction company that is a design/build construction manager and general contractor.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$26 million to $50 million. $30M.<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;21 to 50 employees. 49 employees.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;2 to 5 users. 3 users.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;This buyer wants a system that will track contacts with owners, architect,s and engineers, set followups, track appointments, and affiliate projects with contacts. User friendliness is important to this buyer. In depth reporting isn&#39;t necessarily a selling point here.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Not Determined<br />
+Currently using:&nbsp;&nbsp; &nbsp;Spreadsheets and binders.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;Keeping track of contacts and followups is very difficult to do.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;Nothing yet.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Screened for $65/user/month plus setup.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;Within a few months. They&#39;re in the very early stages.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Price Quote<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;Don&#39;t call today or tomorrow (1/21-22). She&#39;ll be upset if you do because she has a family member in the hospital and she&#39;ll be waiting on calls regarding that in her spare time. Call around 4:00pm-5:00pm CST on Monday or Tuesday (1/25-26).<br />
+Contact notes:&nbsp;&nbsp; &nbsp;Karen will ultimately be the final decision maker with input from other key executives.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Dave</p>","651940,122605,721442,651940,122605,721442,651940,122605,721442,651940,122605,721442,651940,122605,721442,651940,122605,721442",,"Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS),LEADS: Lead Svcs (Onvia, Dodge, IMS)",Construction,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","CRM,CRM,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development",,,,,
+913908,Ivey Mechanical Upsell,2016-01-26 11:22:04.353,2016-02-24 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1603732,Ivey Mechanical Company,,,0.0000,550.0000,0.0000,,,,,,,,,,,1,,,,,0,,<p>call in the next few weeks to talk about the delta.</p>,,"661956,661956",,"Archit Veeravalli,Archit Veeravalli","~None,~None",Construction,,"CRM,Business Development",,,,,
+913908,Ivey Mechanical Upsell,2016-01-26 11:22:04.353,2016-02-24 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1603732,Ivey Mechanical Company,,,0.0000,550.0000,0.0000,,,,,,,,,,,1,,,,,0,,<p>call in the next few weeks to talk about the delta.</p>,,"661956,661956",,"Archit Veeravalli,Archit Veeravalli","~None,~None",Engineering: Mechanical,,"CRM,Business Development",,,,,
+913908,Ivey Mechanical Upsell,2016-01-26 11:22:04.353,2016-02-24 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1603732,Ivey Mechanical Company,,,0.0000,550.0000,0.0000,,,,,,,,,,,1,,,,,0,,<p>call in the next few weeks to talk about the delta.</p>,,"661956,661956",,"Archit Veeravalli,Archit Veeravalli","~None,~None",Speciality Sub Contractor - Mechanical,,"CRM,Business Development",,,,,
+913650,Outside The Lines,2016-01-25 16:51:28.873,2016-04-06 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2987347,Outside The Lines,,,0.0000,4250.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Set next step/demo with Hugh. &nbsp;I sent him videos upfront by his request. &nbsp;</p>,"<p>Excellent Demo - sending detailed pricing info and trying to match up references with his Partner portal. &nbsp;Looks like a go. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Very clear requirements&nbsp;</p>
+
+<p>Wants to be able to manage their diff business units each with very different needs. &nbsp;All around project coordination. &nbsp;Its a great fit for us.</p>
+
+<p>Does not want to use SFDC for all of the right reasons. &nbsp;</p>
+
+<p>High end fountain and water works projects. &nbsp;works very closely with global GC&#39;s and is very interested in our GC client list.</p>
+
+<p>No demo date set, but that is the next steps and this is a qualified opp. &nbsp;Real money on the table here. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Outside The Lines<br />
+Contact name:&nbsp;&nbsp; &nbsp;Hugh Hughes<br />
+Job title:&nbsp;&nbsp; &nbsp;Owner<br />
+Office:&nbsp;&nbsp; &nbsp;(714) 922-2151<br />
+Email:&nbsp;&nbsp; &nbsp;hughh@otl-inc.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://otl-inc.com/<br />
+Address:&nbsp;&nbsp; &nbsp;20331 Irvine Avenue, Suite E7<br />
+City:&nbsp;&nbsp; &nbsp;Newport Beach<br />
+State:&nbsp;&nbsp; &nbsp;CA<br />
+ZIP code:&nbsp;&nbsp; &nbsp;92660<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;1/23/16 11:01 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Construction - B2B. This company designs and builds custom water features and outdoor environments for resorts and parks worldwide.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$6 million to $25 million<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;21 to 50 employees. There are 50 employees.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;2 to 5 users. There are at least two users that need administrative access to the software.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation and Marketing Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;They are seeking a solution that will manage their contact database, track all interactions with clients, allow them to create custom notes, and generate reports. They would also like to set up drip-marketing campaigns and targeted emails through the system.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Web-based<br />
+Currently using:&nbsp;&nbsp; &nbsp;They are using manual methods and Outlook currently.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;They need to improve their sales organization.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;None.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Up to $200/month plus setup fees.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;They would like to make a decision as soon as possible.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Price Quote<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;Contact Hugh around mid-day PST on any business day to discuss granular quotes and schedule demonstrations.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Cassidie</p>","651940,664068,651940,664068,651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB","Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+912501,"Roeslein & Associates, Inc.",2016-01-21 12:14:17.167,2016-04-20 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2981876,"Roeslein & Associates, Inc.",2016-01-13 00:00:00.0,,0.0000,8160.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Execute agreement</p>,"<p><span style=""line-height: 1.6em;"">Formerly US Engineer Company &ndash; implemented Cosential while I was there.&nbsp; Helped implement and used heavily</span></p>
+
+<p><span style=""line-height: 1.6em;"">With US Eng Through June of 15.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Joined Raceline in August &ndash; BD Manager &ndash; call on&nbsp;the big companies &ndash; tracking down projects</span></p>
+
+<p><span style=""line-height: 1.6em;"">Engieering, fabrication</span></p>
+
+<p><span style=""line-height: 1.6em;"">250 mi rev</span></p>
+
+<p><span style=""line-height: 1.6em;"">2 business units</span></p>
+
+<p><span style=""line-height: 1.6em;"">Biz unit 1 - manufacturing &ndash; can manufacturer.&nbsp; Our company built the plant that made your can.&nbsp; &ndash; pretty small industry and they know who is who &ndash; don&rsquo;t think they need CRM.&nbsp; The sharepoint solution was a driver b/c it was very cheap and was supposed to get&nbsp;them off of spreadsheets.</span></p>
+
+<p><span style=""line-height: 20.8px;"">Biz unit 2 - process and energy group = this is Petes group &ndash; fairly new &ndash; new people - 5 ppl - Pete (BD), John(manager of biz unit), Miranda (Cosnetial potential OFA and group admin) Joe (BD) and Rob (BD) &nbsp;All 5 would be full users. &nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Guy who was supposed build the Sharepoint stuff has spit. &nbsp;Project bombed. &nbsp;Never paid him so nothing lost but time. &nbsp;alot of time. &nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Pete told the owner that he used Cosneital and that it was awesome.&nbsp; Liked the concept but couldn&rsquo;t sell the Can side on the idea of a more expensive crm.</span></p>
+
+<p><span style=""line-height: 1.6em;"">&quot;No way that sharepoint can get close to what you do&quot;</span></p>
+
+<p><span style=""line-height: 1.6em;"">So now boss has given the green light to look at us.&nbsp; Spend a little money.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Gonna look at other options but heavily favoring Cosential due to past use.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Can Biz unit guys may be on board from day one due to the sharepoint fiasco but in the past said they didnt want to spend real money.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Pete is using outlook only for his current d2d activities.</span></p>
+
+<p>&nbsp;</p>
+
+<p>Pete -&nbsp;Really liked the pipeline and opp management.</p>
+
+<p>&nbsp;</p>
+
+<p>Opp projects to real bids. - performance reporting</p>
+
+<p>&nbsp;</p>
+
+<p>Managing a dozen projects now and has no idea how they are progressing.</p>
+
+<p>&nbsp;</p>
+
+<p>No proposal automation upfront - may want to plant the seed. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Raceline should be a good fit for proposal automation.&nbsp; Lots of very similar proposals. Gaining pete&#39;s interest.</p>
+
+<p>Pete wants to help us sell John.</p>
+
+<p><span style=""line-height: 1.6em;"">US Eng was using pipeline data for forecasting.&nbsp; CFO has a program he uses for forecasting, wins and losses.&nbsp; Excel or access.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accounting software &ndash; not sure.&nbsp; Part of the reason they balked at Cosential. - didnt want crm data flowing into acct system. &nbsp;I explained how it works. &nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Send Proposal info &ndash; build a plan with Pete to show John pricing and implementation timeline.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">John would then try to sell it to the can side.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Show some cool sample reports.&nbsp; Forecasting up to the main office.&nbsp; How far forward looking?&nbsp; For the year or more.&nbsp; Bi weekly activity report &ndash; opps and current opp status.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Pete will send me the report &ndash; and we will show John how to do it in Cosneital. &nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Roeslein &amp; Associates, Inc.<br />
+Contact name:&nbsp;&nbsp; &nbsp;Pete McCall<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Manager<br />
+Mobile:&nbsp;&nbsp; &nbsp;(913) 208-3143<br />
+Email:&nbsp;&nbsp; &nbsp;pmccall@roeslein.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.roeslein.com<br />
+Address:&nbsp;&nbsp; &nbsp;9200 Watson Road, Suite 200<br />
+City:&nbsp;&nbsp; &nbsp;St. Louis<br />
+State:&nbsp;&nbsp; &nbsp;KS<br />
+ZIP code:&nbsp;&nbsp; &nbsp;63126<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;1/20/16 13:00 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Engineering - B2B. They handle engineering, modular fabrication, and construction of industrial plant facilities.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$101 million to $300 million. $250M.<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;101 to 500 employees. 200-300 employees.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;6 to 10 users. Around 10 users.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;They need to track their customers/clients and the projects and accounts associated with those clients. They need the system to handle interaction tracking, follow-up reminders, and in-depth client information.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Web-based<br />
+Currently using:&nbsp;&nbsp; &nbsp;SharePoint.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;The system is cheap and not a good fit for their company.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;SharePoint.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Screened $75/user/month.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;As soon as possible.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Demo<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;Anytime between 9:00am-5:00pm through Friday (1/22). He will be traveling all next week.<br />
+Contact notes:&nbsp;&nbsp; &nbsp;Pete is doing the legwork on the research and taking that information to his boss to make a final decision.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Clint</p>","651940,664068,651940,664068,651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Marketing Management,Marketing Management,Marketing Management,Marketing Management,Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,,,
+912501,"Roeslein & Associates, Inc.",2016-01-21 12:14:17.167,2016-04-20 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2981876,"Roeslein & Associates, Inc.",2016-01-13 00:00:00.0,,0.0000,8160.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>Execute agreement</p>,"<p><span style=""line-height: 1.6em;"">Formerly US Engineer Company &ndash; implemented Cosential while I was there.&nbsp; Helped implement and used heavily</span></p>
+
+<p><span style=""line-height: 1.6em;"">With US Eng Through June of 15.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Joined Raceline in August &ndash; BD Manager &ndash; call on&nbsp;the big companies &ndash; tracking down projects</span></p>
+
+<p><span style=""line-height: 1.6em;"">Engieering, fabrication</span></p>
+
+<p><span style=""line-height: 1.6em;"">250 mi rev</span></p>
+
+<p><span style=""line-height: 1.6em;"">2 business units</span></p>
+
+<p><span style=""line-height: 1.6em;"">Biz unit 1 - manufacturing &ndash; can manufacturer.&nbsp; Our company built the plant that made your can.&nbsp; &ndash; pretty small industry and they know who is who &ndash; don&rsquo;t think they need CRM.&nbsp; The sharepoint solution was a driver b/c it was very cheap and was supposed to get&nbsp;them off of spreadsheets.</span></p>
+
+<p><span style=""line-height: 20.8px;"">Biz unit 2 - process and energy group = this is Petes group &ndash; fairly new &ndash; new people - 5 ppl - Pete (BD), John(manager of biz unit), Miranda (Cosnetial potential OFA and group admin) Joe (BD) and Rob (BD) &nbsp;All 5 would be full users. &nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Guy who was supposed build the Sharepoint stuff has spit. &nbsp;Project bombed. &nbsp;Never paid him so nothing lost but time. &nbsp;alot of time. &nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Pete told the owner that he used Cosneital and that it was awesome.&nbsp; Liked the concept but couldn&rsquo;t sell the Can side on the idea of a more expensive crm.</span></p>
+
+<p><span style=""line-height: 1.6em;"">&quot;No way that sharepoint can get close to what you do&quot;</span></p>
+
+<p><span style=""line-height: 1.6em;"">So now boss has given the green light to look at us.&nbsp; Spend a little money.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Gonna look at other options but heavily favoring Cosential due to past use.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Can Biz unit guys may be on board from day one due to the sharepoint fiasco but in the past said they didnt want to spend real money.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Pete is using outlook only for his current d2d activities.</span></p>
+
+<p>&nbsp;</p>
+
+<p>Pete -&nbsp;Really liked the pipeline and opp management.</p>
+
+<p>&nbsp;</p>
+
+<p>Opp projects to real bids. - performance reporting</p>
+
+<p>&nbsp;</p>
+
+<p>Managing a dozen projects now and has no idea how they are progressing.</p>
+
+<p>&nbsp;</p>
+
+<p>No proposal automation upfront - may want to plant the seed. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Raceline should be a good fit for proposal automation.&nbsp; Lots of very similar proposals. Gaining pete&#39;s interest.</p>
+
+<p>Pete wants to help us sell John.</p>
+
+<p><span style=""line-height: 1.6em;"">US Eng was using pipeline data for forecasting.&nbsp; CFO has a program he uses for forecasting, wins and losses.&nbsp; Excel or access.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accounting software &ndash; not sure.&nbsp; Part of the reason they balked at Cosential. - didnt want crm data flowing into acct system. &nbsp;I explained how it works. &nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Send Proposal info &ndash; build a plan with Pete to show John pricing and implementation timeline.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">John would then try to sell it to the can side.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Show some cool sample reports.&nbsp; Forecasting up to the main office.&nbsp; How far forward looking?&nbsp; For the year or more.&nbsp; Bi weekly activity report &ndash; opps and current opp status.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Pete will send me the report &ndash; and we will show John how to do it in Cosneital. &nbsp;</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Contact Information<br />
+Company name:&nbsp;&nbsp; &nbsp;Roeslein &amp; Associates, Inc.<br />
+Contact name:&nbsp;&nbsp; &nbsp;Pete McCall<br />
+Job title:&nbsp;&nbsp; &nbsp;Business Development Manager<br />
+Mobile:&nbsp;&nbsp; &nbsp;(913) 208-3143<br />
+Email:&nbsp;&nbsp; &nbsp;pmccall@roeslein.com<br />
+Website:&nbsp;&nbsp; &nbsp;http://www.roeslein.com<br />
+Address:&nbsp;&nbsp; &nbsp;9200 Watson Road, Suite 200<br />
+City:&nbsp;&nbsp; &nbsp;St. Louis<br />
+State:&nbsp;&nbsp; &nbsp;KS<br />
+ZIP code:&nbsp;&nbsp; &nbsp;63126<br />
+Country:&nbsp;&nbsp; &nbsp;United States<br />
+Timestamp:&nbsp;&nbsp; &nbsp;1/20/16 13:00 CST<br />
+&nbsp;<br />
+Company Profile<br />
+Segment:&nbsp;&nbsp; &nbsp;Engineering - B2B. They handle engineering, modular fabrication, and construction of industrial plant facilities.<br />
+Size (Annual Revenue):&nbsp;&nbsp; &nbsp;$101 million to $300 million. $250M.<br />
+Number of Employees:&nbsp;&nbsp; &nbsp;101 to 500 employees. 200-300 employees.<br />
+Number of Users:&nbsp;&nbsp; &nbsp;6 to 10 users. Around 10 users.<br />
+&nbsp;<br />
+Project &amp; Requirements Overview<br />
+Applications needed:&nbsp;&nbsp; &nbsp;Sales Automation<br />
+Key features needed:&nbsp;&nbsp; &nbsp;They need to track their customers/clients and the projects and accounts associated with those clients. They need the system to handle interaction tracking, follow-up reminders, and in-depth client information.<br />
+Deployment:&nbsp;&nbsp; &nbsp;Web-based<br />
+Currently using:&nbsp;&nbsp; &nbsp;SharePoint.<br />
+Reasons for shopping:&nbsp;&nbsp; &nbsp;The system is cheap and not a good fit for their company.<br />
+Who they&#39;ve evaluated:&nbsp;&nbsp; &nbsp;SharePoint.<br />
+Price expectations:&nbsp;&nbsp; &nbsp;Screened $75/user/month.<br />
+Timeframe:&nbsp;&nbsp; &nbsp;As soon as possible.<br />
+&nbsp;<br />
+Next Steps<br />
+Request:&nbsp;&nbsp; &nbsp;Demo<br />
+Product:&nbsp;&nbsp; &nbsp;Cosential<br />
+Follow-up instructions:&nbsp;&nbsp; &nbsp;Anytime between 9:00am-5:00pm through Friday (1/22). He will be traveling all next week.<br />
+Contact notes:&nbsp;&nbsp; &nbsp;Pete is doing the legwork on the research and taking that information to his boss to make a final decision.<br />
+Qualified By:&nbsp;&nbsp; &nbsp;Clint</p>","651940,664068,651940,664068,651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Engineering: Mechanical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+912281,AKS Engineering,2016-01-20 17:26:44.017,2016-02-29 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1131159,AKS Engineering & Forestry,,,0.0000,6220.0000,0.0000,,,,,,,,,,,,,,,,0,,,"<p>Lead from Dan, said she was a user at JE Dunn and would like a demo set up with their management.</p>","651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Environmental,"Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera","Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+911763,Initial Implementation A&P,2016-01-19 18:19:31.023,2016-01-19 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,3204915,Adolfson & Peterson Construction,,,0.0000,15000.0000,0.0000,,,,,,,,,,,,,,,,,,<p>Start Implementation</p>,<p>none</p>,"2937,2937,2937",,"Cornell Cornish,Cornell Cornish,Cornell Cornish","FDC: Financial Data Connector,FDC: Financial Data Connector,FDC: Financial Data Connector",Construction,"Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards","Business Development,CRM,Marketing Management",,,1001+,,
+911376,Paul J. Ford & Company - Structural Engineers Upsell,2016-01-19 10:46:11.95,2016-02-23 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1986845,Paul J. Ford & Company - Structural Engineers,,,0.0000,2880.0000,0.0000,,,,,,,,,,,4,,,,,0,,,,661956,,Archit Veeravalli,~None,Engineering,Cosential - Current Customer,Business Development,,,,,
+911368,"VMDO Architects, P.C. Upsell",2016-01-19 10:40:12.09,2016-02-09 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,18168,"VMDO Architects, P.C.",,,0.0000,2940.0000,0.0000,,,,,,,,,,,,,,,,0,,,<p>they now have a total of 10 full user seats</p>,661956,,Archit Veeravalli,~None,Architecture,Cosential - Current Customer,CRM,,,,,
+910839,"Gray & Pape, Inc. Upsell",2016-01-18 10:52:13.98,2016-02-09 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1918890,"Gray & Pape, Inc.",,,0.0000,1440.0000,0.0000,,,,,,,,,,,2,,,,,0,,<p>get signed contract back from Jennifer.</p>,,661956,,Archit Veeravalli,~None,Architecture,Cosential - Current Customer,CRM,,,,,
+910343,BBL Campus Facilities,2016-01-15 11:27:58.74,2016-03-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2971692,BBL Campus Facilities,2016-01-25 00:00:00.0,,0.0000,6380.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get signed agreement</p>,"<p>Emailed Dan:</p>
+
+<p>We are exploring options to bring in a CRM to utilize in our Business Development division at BBL &ndash; I am interested in setting up a conference call with Coesential and my team to learn more about your CRM system and if it would be a good fit for us here. Please let me know if this is something I can schedule with you, or if you would be able to point me in the right direction of who I should contact.</p>
+
+<p>Hopw she found us - I was asking someone at my company &ndash; 2 years ago they did a demo &ndash;</p>
+
+<p><span style=""line-height: 1.6em;"">CRM and contact management is priority</span></p>
+
+<p><span style=""line-height: 1.6em;"">Access through mobile ap is big</span></p>
+
+<p><span style=""line-height: 1.6em;"">6 people to start.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Marketing and BD.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Construction mainly &ndash; a few offshoots from that.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Email blasts from mail chimp currently.&nbsp; Extract emails from these lists.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accounting &ndash; software - not sure..&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">CRM &ndash; nothing now.&nbsp; Excel spreadsheets &ndash; are big.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Outlook shop.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Amanda and 3 others on demo &ndash; all BD and marketing.</span></p>","651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","CRM,CRM,Business Development,Business Development",Account Management,,,,
+910343,BBL Campus Facilities,2016-01-15 11:27:58.74,2016-03-28 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2971692,BBL Campus Facilities,2016-01-25 00:00:00.0,,0.0000,6380.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get signed agreement</p>,"<p>Emailed Dan:</p>
+
+<p>We are exploring options to bring in a CRM to utilize in our Business Development division at BBL &ndash; I am interested in setting up a conference call with Coesential and my team to learn more about your CRM system and if it would be a good fit for us here. Please let me know if this is something I can schedule with you, or if you would be able to point me in the right direction of who I should contact.</p>
+
+<p>Hopw she found us - I was asking someone at my company &ndash; 2 years ago they did a demo &ndash;</p>
+
+<p><span style=""line-height: 1.6em;"">CRM and contact management is priority</span></p>
+
+<p><span style=""line-height: 1.6em;"">Access through mobile ap is big</span></p>
+
+<p><span style=""line-height: 1.6em;"">6 people to start.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Marketing and BD.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Construction mainly &ndash; a few offshoots from that.</span></p>
+
+<p><span style=""line-height: 1.6em;"">Email blasts from mail chimp currently.&nbsp; Extract emails from these lists.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Accounting &ndash; software - not sure..&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">CRM &ndash; nothing now.&nbsp; Excel spreadsheets &ndash; are big.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Outlook shop.&nbsp;</span></p>
+
+<p><span style=""line-height: 1.6em;"">Amanda and 3 others on demo &ndash; all BD and marketing.</span></p>","651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","Business Development,Business Development,CRM,CRM",Marketing,,,,
+909220,Oz Directional Drilling,2016-01-13 10:43:19.91,2016-02-29 00:00:00.0,007-Closed Lost,3,Closed/Lost,0,1,2970510,oz directional drilling,,,0.0000,5000.0000,0.0000,,,,,,,,,,,,,,,,0,,,<p>Lost to Maximizer. Main reason because owner had had experience using it before and was of the opinion it would do what they needed. Assigned myself a task to check back in 6 months.&nbsp;</p>,"651940,721442",,"Cody Rademacher,Oscar Reyna",,,,,,,,,
+907706,Glumac,2016-01-08 13:07:41.277,2016-01-31 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1093076,Glumac,,,0.0000,3160.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get proposal back from Joseph. &nbsp;May need to do a 30 minute CRM only walk through for Dennis. &nbsp;Will send Joseph the video to try and suffice.</p>,<p>Old opp.&nbsp; Just emailed in asking to talk to someone.</p>,"651940,664068",,"Cody Rademacher,Andy Hughes","CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"Accounting : Deltek Vision,Accounting : Deltek Vision","CRM,CRM",,,,,
+906824,Meyer Najem Construction,2016-01-07 16:03:16.36,2016-02-26 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1130323,Meyer Najem Construction,,,0.0000,6260.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>push for Feb sign. &nbsp;will be tough to get. &nbsp;</p>,<p>Called in on sales line interested.&nbsp;</p>,"664068,664068,664068,664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Construction,"Accounting : Timberline,Accounting : Timberline,Accounting : Timberline,Accounting : Timberline,Accounting : Timberline,Accounting : Timberline","CRM,CRM,Business Development,Business Development,Marketing Management,Marketing Management",,,,,
+906747,Faith Group LLC,2016-01-07 14:15:38.283,2016-05-16 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2964721,Faith Group LLC,2016-03-28 00:00:00.0,2016-04-29 00:00:00.0,0.0000,7600.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>5/3/16 Contract out for sig</p>,"<p>3/21 Loren is ready for a demo- needs to coordinate with new BD person.&nbsp;<br />
+&nbsp;</p>
+
+<p>2/15 TT Loren. Still slammed. said cb mid March<br />
+&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Faith Group LLC<br />
+FullName: Loren Boyd<br />
+Email: loren@faithgroupllc.com<br />
+FormURL: http://www.cosential.com/demo/</p>
+
+<p><br />
+2/10 Andy- reached out on January 7 th. She responded in early January sounded interested in moving forward.&nbsp;<br />
+<br />
+&nbsp;</p>","651940,122605,721442,651940,122605,721442,651940,122605,721442",,"Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM,Business Development,Business Development,Business Development",Account Management,,,,
+906747,Faith Group LLC,2016-01-07 14:15:38.283,2016-05-16 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2964721,Faith Group LLC,2016-03-28 00:00:00.0,2016-04-29 00:00:00.0,0.0000,7600.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>5/3/16 Contract out for sig</p>,"<p>3/21 Loren is ready for a demo- needs to coordinate with new BD person.&nbsp;<br />
+&nbsp;</p>
+
+<p>2/15 TT Loren. Still slammed. said cb mid March<br />
+&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Faith Group LLC<br />
+FullName: Loren Boyd<br />
+Email: loren@faithgroupllc.com<br />
+FormURL: http://www.cosential.com/demo/</p>
+
+<p><br />
+2/10 Andy- reached out on January 7 th. She responded in early January sounded interested in moving forward.&nbsp;<br />
+<br />
+&nbsp;</p>","651940,122605,721442,651940,122605,721442,651940,122605,721442",,"Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","CRM,CRM,CRM,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management",Implementation,,,,
+906747,Faith Group LLC,2016-01-07 14:15:38.283,2016-05-16 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2964721,Faith Group LLC,2016-03-28 00:00:00.0,2016-04-29 00:00:00.0,0.0000,7600.0000,0.0000,,,,,,,,,,,,,,,Commit,,,<p>5/3/16 Contract out for sig</p>,"<p>3/21 Loren is ready for a demo- needs to coordinate with new BD person.&nbsp;<br />
+&nbsp;</p>
+
+<p>2/15 TT Loren. Still slammed. said cb mid March<br />
+&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Faith Group LLC<br />
+FullName: Loren Boyd<br />
+Email: loren@faithgroupllc.com<br />
+FormURL: http://www.cosential.com/demo/</p>
+
+<p><br />
+2/10 Andy- reached out on January 7 th. She responded in early January sounded interested in moving forward.&nbsp;<br />
+<br />
+&nbsp;</p>","651940,122605,721442,651940,122605,721442,651940,122605,721442",,"Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna,Cody Rademacher,Makala Herrera,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks,Accounting: QuickBooks","Marketing Management,Marketing Management,Marketing Management,CRM,CRM,CRM,Business Development,Business Development,Business Development",Marketing,,,,
+906551,KHS&S,2016-01-07 08:56:25.723,2016-04-04 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2965392,KHS&S,2016-03-23 00:00:00.0,,0.0000,4730.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Demo set for 3/23</p>,"<p>Event Type: demo<br />
+Company: KHS&amp;S<br />
+FullName: Bruce Holleran<br />
+Email: bruce.holleran@khsswest.com<br />
+Phone: 714-455-1142<br />
+FormURL: http://www.cosential.com/demo/</p>","651940,721442,651940,721442,651940,721442",,"Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna,Cody Rademacher,Oscar Reyna","CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB,Marketing : In-house SQL DB","Marketing Management,Marketing Management,CRM,CRM,Business Development,Business Development",,,,,
+906125,Gibbs Construction,2016-01-06 10:35:15.37,2016-01-22 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1126774,Gibbs Construction,,,0.0000,4940.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>.</p>,"<p>Event Type: demo<br />
+Company: Gibbs Construction<br />
+FullName: Amanda Willner<br />
+Email: awillner@gibbsconstruction.com<br />
+Phone: (504) 733-4336<br />
+FormURL: http://www.cosential.com/wow/</p>","651940,664068,651940,664068,651940,664068,651940,664068,651940,664068,651940,664068",,"Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes,Cody Rademacher,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+906043,Sverdrup Engineering Services,2016-01-06 09:18:10.89,2016-01-07 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2965189,Sverdrup Engineering Services,,,0.0000,2240.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get signed agreement back.</p>,"<p>Event Type: demo<br />
+Company: Sverdrup Engineering Services<br />
+FullName: Eric Sverdrup<br />
+Email: esverdrup@sverdrupservices.com<br />
+Phone: (520) 271-4842<br />
+FormURL: http://www.cosential.com/demo/</p>",651940,,Cody Rademacher,~None,Engineering: Electrical,Accounting: QuickBooks,Marketing Management,,,,,
+905867,Universal Construction Co. Inc,2016-01-05 15:09:06.377,2016-02-26 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2962271,Universal Construction Co. Inc,,,0.0000,2940.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Sign and return.&nbsp;</p>,"<p>Sent new proposal with 2 full and 4 read only. &nbsp;also sent some companies we work with in the area. &nbsp;asked her to set references with me. &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Event Type: demo<br />
+Company: Universal Construction Co. Inc<br />
+FullName: Sabrie Burns<br />
+Email: sabrie@universalconstruction.net<br />
+Phone: 9133421150<br />
+FormURL: http://www.cosential.com/demo/</p>","664068,664068",,"Andy Hughes,Andy Hughes","~None,~None",Construction,"Accounting : Timberline,Accounting : Timberline","Business Development,CRM",,,,,
+904150,"Ecotech refrigeration & hvac, Inc.",2015-12-29 16:16:43.633,2015-12-30 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2963097,"Ecotech refrigeration & hvac, Inc.",,,0.0000,12540.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Set up Account</p>,"<p><span style=""color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; background-color: rgba(255, 255, 255, 0);"">David Bennett<br />
+ecotech refrigeration &amp; hvac, Inc.<br />
+Office -&nbsp;<a href=""tel:888.833.8100"" x-apple-data-detectors=""true"" x-apple-data-detectors-result=""1/0"" x-apple-data-detectors-type=""telephone"">888.833.8100</a></span></p>
+
+<div style=""color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px;""><font color=""#000000""><span style=""background-color: rgba(255, 255, 255, 0);""><a href=""mailto:dbennett@ecotech-hvacr.com"" target=""_blank"">dbennett@ecotech-hvacr.com</a><br />
+<a href=""http://www.ecotech-hvacr.com/"" target=""_blank"">www.ecotech-hvacr.com</a></span></font></div>
+
+<div>&nbsp;</div>","2937,2937,2937,2937,2937,2937",,"Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Speciality Sub Contractor - Mechanical,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","CRM,CRM,Business Development,Business Development,Marketing Management,Marketing Management",,,31-100,,
+903145,Alberici Constructors Scoping and Implementation Planning,2015-12-22 22:00:45.76,2016-01-06 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1250990,Alberici Constructors,,,0.0000,10000.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Schedule Implementation specilist to go to St Louis second week in January</p>,,"2937,2937,2937,2937,2937,2937",,"Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish","FDC: Financial Data Connector,LEADS: Lead Svcs (Onvia, Dodge, IMS),FDC: Financial Data Connector,LEADS: Lead Svcs (Onvia, Dodge, IMS),FDC: Financial Data Connector,LEADS: Lead Svcs (Onvia, Dodge, IMS)",Construction,"Accounting : Computer Guidance,Accounting : Computer Guidance,Accounting : Computer Guidance,Accounting : Computer Guidance,Accounting : Computer Guidance,Accounting : Computer Guidance","Business Development,Business Development,Marketing Management,Marketing Management,CRM,CRM",,,1001+,,
+902641,O'Donnell & Naccarato,2015-12-22 10:43:09.063,2016-02-26 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1100358,O'Donnell & Naccarato,,,0.0000,15680.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get contract signed.&nbsp;</p>,"<p>Event Type: demo<br />
+Company: O&#39;Donnell &amp; Naccarato<br />
+FullName: Michael Herrmann<br />
+Email: mherrmann@o-n.com<br />
+Phone: 2157173610<br />
+FormURL: http://www.cosential.com/demo/</p>","664068,664068,664068,664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Engineering: Structural,"Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera,Accounting : Axium Ajera","CRM,CRM,Business Development,Business Development,Marketing Management,Marketing Management",,,,,
+902313,"VMDO Architects, P.C.",2015-12-21 12:28:02.487,2015-12-21 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,18168,"VMDO Architects, P.C.",,,0.0000,15540.0000,0.0000,,,,,,,,,,,,,,,,0,,,,661956,,Archit Veeravalli,,,,,,,,,
+901936,Sundt - Deltek CRM Replacement,2015-12-18 14:24:59.333,2016-03-10 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2610661,Sundt Construction,,,0.0000,49650.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Send enterprise pricing and schedule an onsite presentation</p>,"<p>Hi Ron,</p>
+
+<p>&nbsp;</p>
+
+<p>I thought it might be helpful to outline where we are with Deltek and some challenges, for our meeting on Thursday.</p>
+
+<p>&nbsp;</p>
+
+<p>CRM &ndash; Current State</p>
+
+<p>Today, we use Deltek&rsquo;s Vision database and product as the foundation of our CRM architecture.&nbsp; Our Business Development process is designed around an account management framework.&nbsp; In construction, the real, total lifecycle of any given pursuit can last 5 years.&nbsp; We are often aware of opportunities 2 years prior to their going to market for bid.&nbsp; Some bid processes can run up to 1 year.&nbsp; Finally, project delivery can last from 1-4 years.&nbsp;&nbsp; Therefore, our CRM tool has evolved to help manage the following:</p>
+
+<p>&nbsp;</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account/Customer management</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuit/Opportunity tracking/management &nbsp;(leads)</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forecasting (3 year sales outlook)</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuit Management (4 phases, proposals, team assignments)</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Partial Talent Database</p>
+
+<p>o&nbsp;&nbsp;&nbsp;Data base linking each employee to prior projects, skill sets, qualifications</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Award Management (job creation)</p>
+
+<p>&nbsp;</p>
+
+<p>Today, the system is mostly available as an online data base.&nbsp; We have implemented their mobile application.&nbsp; Report writing and analysis often has to be completed using other 3<sup>rd</sup>&nbsp;party tools.&nbsp; We have about 120 total users broken down as follows:&nbsp; 40 account managers, 12 marketing specialists, 30 profit center level users, 40 administrative users including accounting, compliance/legal, HR, and others.</p>
+
+<p>&nbsp;</p>
+
+<p>CRM &ndash; Desired Future State</p>
+
+<p>&nbsp;</p>
+
+<p>We are currently in the process of reviewing the Deltek product to make a decision on either staying with the product or migrating to a different platform.&nbsp; Below are the issues driving this review:</p>
+
+<p>&nbsp;</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The need for better data analytics</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The need for stronger report writing and dashboard capabilities</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The need for simpler data interface and user input, including mobile capabilities</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ability for 1 CRM product to manage all of the current state functions</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ability to integrate data across systems (CRM, Accounting (J.D. Edwards) and Industry Specific Project Management Software (Prolog)</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The best value solution &ndash; capability x cost</p>
+
+<p>&nbsp;</p>
+
+<p>Our current system does some of these well, and others not so well.</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks</p>
+
+<p>Mary</p>","2937,2937,2937,2937,2937,2937",,"Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish,Cornell Cornish","FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook,FDC: Financial Data Connector,CONTACTS: Outlook",Construction,"Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards,Accounting : Oracle/JDEdwards","CRM,CRM,Business Development,Business Development,Marketing Management,Marketing Management",,,301-1000,,
+901601,Howard Shockey & Sons Inc,2015-12-17 15:31:29.023,2015-12-23 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1099937,Howard Shockey & Sons Inc,,,0.0000,7910.2400,0.0000,,,,,,,,,,,,,,,,0,,<p>Get signed Contract back.</p>,"<p>Event Type: demo<br />
+Company: Howard Shockey &amp; Sons Inc<br />
+FullName: Jennifer Macks<br />
+Email: jmacks@howardshockey.com<br />
+Phone: 5407234128<br />
+FormURL: http://www.cosential.com/demo/</p>","664068,2937,664068,2937",,"Andy Hughes,Cornell Cornish,Andy Hughes,Cornell Cornish","~None,~None,~None,~None",Construction,"Marketing : In-house Access DB,Marketing : In-house Access DB,Marketing : In-house Access DB,Marketing : In-house Access DB","Business Development,Business Development,CRM,CRM",Marketing,,,,
+901400,J.M. Cope,2015-12-17 09:57:01.817,2015-12-18 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2952424,"J.M.Cope Construction Company, Inc.",,,0.0000,2240.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get signed agreement back and get started on 12/18. &nbsp;Wants to move very fast. &nbsp;</p>,"<p>Event Type: demo<br />
+Company: J.M.Cope<br />
+FullName: George Ward<br />
+Email: gward@jmcope.com<br />
+Phone: 8033729593<br />
+FormURL: http://www.cosential.com/wow/</p>","651940,2937,651940,2937",,"Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish","~None,~None,~None,~None",Construction,"Marketing : In-house Access DB,Marketing : In-house Access DB,Marketing : In-house Access DB,Marketing : In-house Access DB","CRM,CRM,Business Development,Business Development",,,,,
+901306,Alliance Construction,2015-12-16 17:37:06.43,2015-12-17 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1633171,Alliance Construction Solutions,,,0.0000,2200.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get contract back and intro implementation process.</p>,"<p>Event Type: ebook<br />
+Company: Alliance Construction Solutions<br />
+FullName: Doug Miller<br />
+Email: ddmiller@allianceconstruction.com<br />
+Phone: (303) 813-0035 x717<br />
+FormURL: http://www.cosential.com/software-buying-success</p>","651940,2937",,"Cody Rademacher,Cornell Cornish","~None,~None",Construction,"CRM : Act!,CRM : Act!","CRM,CRM",,,,,
+901124,Elements Hospitality,2015-12-16 13:07:26.47,2015-12-30 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2924125,Elements Hospitality,,,0.0000,6960.0000,0.0000,,,,,,,,,,,,,,,,0,,,"<p>Tim does not have an office phone.&nbsp; Only reachable by cell phone.</p>
+
+<p>Office line is 360-354-6915</p>
+
+<p>Cell phone is 360-815-1598</p>
+
+<p>Event Type: demo<br />
+Company: elements hospitality<br />
+FullName: tim broersma<br />
+Email: tim@elements-hospitality.com<br />
+Phone: (360) 354-6951<br />
+FormURL: http://www.cosential.com/wow/</p>","651940,2937,651940,2937,651940,2937,651940,2937",,"Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Engineering,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,,,
+901124,Elements Hospitality,2015-12-16 13:07:26.47,2015-12-30 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2924125,Elements Hospitality,,,0.0000,6960.0000,0.0000,,,,,,,,,,,,,,,,0,,,"<p>Tim does not have an office phone.&nbsp; Only reachable by cell phone.</p>
+
+<p>Office line is 360-354-6915</p>
+
+<p>Cell phone is 360-815-1598</p>
+
+<p>Event Type: demo<br />
+Company: elements hospitality<br />
+FullName: tim broersma<br />
+Email: tim@elements-hospitality.com<br />
+Phone: (360) 354-6951<br />
+FormURL: http://www.cosential.com/wow/</p>","651940,2937,651940,2937,651940,2937,651940,2937",,"Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish,Cody Rademacher,Cornell Cornish","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Sub Contractor,"CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook,CRM : Outlook","Business Development,Business Development,Business Development,Business Development,CRM,CRM,CRM,CRM",,,,,
+900250,ACIS,2015-12-14 11:13:21.703,2016-01-14 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2950492,ACIS,,,0.0000,18000.0000,0.0000,,,,,,,,,,,,,,,,0,,"<p>I offered free migration from Salesforce.com data - DC &nbsp;12-23-15</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","<p>Event Type: demo<br />
+Company: ACIS<br />
+FullName: Mike Nichols<br />
+Email: mnichols@acisinc.com<br />
+Phone: 2142871250<br />
+FormURL: http://www.cosential.com/demo/</p>
+
+<p>&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Setting up demo for either before christmas or after christmas. &nbsp;Mike checking calendar.</p>
+
+<p style=""line-height: 20.8px;"">&nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Spoke with Mike. &nbsp;Great Call. &nbsp;Mike is DM - Owner Founder - HVAC industry. 60 or so in the field. &nbsp;HVAC service and light new construction.</p>
+
+<p style=""line-height: 20.8px;"">Field is equipped with Ipads. &nbsp;Use Box.com for file sharing. &nbsp;PDF Expert to manage forms.</p>
+
+<p style=""line-height: 20.8px;"">Overall goal is to consolidate tools, keep things in sync, leverage automation.</p>
+
+<p style=""line-height: 20.8px;"">Currently on SFDC using 12-13 licenses. Been on since 2008 or 9. &nbsp;Pay quarterly with SFDC and are paid through Feb. Mike thinks.</p>
+
+<p style=""line-height: 20.8px;"">Currently Uses SFDC for CRM - Would like to integrate with ViewPoint though and ViewPoint reccommended Cosential.</p>
+
+<p style=""line-height: 20.8px;"">Currently Use Exactly for Sales Commissions - Very interested in using Cosential to replace this if possible. &nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Currently Use Ascent for ERP - Looking at Viewpoint. - Ascent is very HVAC specific.</p>
+
+<p style=""line-height: 20.8px;"">Currently use no tools for proposal generation and it is a manual process that is painful. &nbsp;</p>
+
+<p style=""line-height: 20.8px;"">Mike wants to include his sales manager on the demo.</p>","664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068,664068",,"Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes,Andy Hughes","FDC: Financial Data Connector,CONTACTS: Outlook,z_Other,FDC: Financial Data Connector,CONTACTS: Outlook,z_Other,FDC: Financial Data Connector,CONTACTS: Outlook,z_Other,FDC: Financial Data Connector,CONTACTS: Outlook,z_Other,FDC: Financial Data Connector,CONTACTS: Outlook,z_Other,FDC: Financial Data Connector,CONTACTS: Outlook,z_Other",Speciality Sub Contractor - Mechanical,"CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,CRM : Salesforce.com,CRM : Salesforce.com,CRM : Salesforce.com","CRM,CRM,CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,,,
+899770,Marketlink,2015-12-11 12:51:55.057,2015-12-11 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2589498,Marketlink,,,0.0000,0.0000,0.0000,,,,,,,,,,,,,,,,,,,,651940,,Cody Rademacher,,,,,,,,,
+898297,BAR Architects Upsell,2015-12-07 16:41:53.65,2016-05-10 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2336792,"BAR Architects, Inc.",2016-04-07 00:00:00.0,,0.0000,200.0000,0.0000,,,,,,,,,,,,,,,Commit,,,,,661956,,Archit Veeravalli,~None,Architecture,Cosential - Current Customer,CRM,,,,,
+897963,Lunacon,2015-12-07 09:13:02.55,2016-01-19 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2947877,Lunacon,,,0.0000,4220.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Get signed agreement back. &nbsp;</p>,"<p>Event Type: demo<br />
+Company: Lunacon<br />
+FullName: Franchesca Vasquez<br />
+Email: fvasquez@lunaconcorp.com<br />
+Phone: 786-293-0035 x106<br />
+FormURL: http://www.cosential.com/demo/</p>","2937,664068,2937,664068,2937,664068,2937,664068,2937,664068,2937,664068",,"Cornell Cornish,Andy Hughes,Cornell Cornish,Andy Hughes,Cornell Cornish,Andy Hughes,Cornell Cornish,Andy Hughes,Cornell Cornish,Andy Hughes,Cornell Cornish,Andy Hughes","FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook,FDC: Financial Data Connector,FDC: Financial Data Connector,CONTACTS: Outlook,CONTACTS: Outlook",Construction,"Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint,Accounting : Vista by Viewpoint","CRM,CRM,CRM,CRM,Business Development,Business Development,Business Development,Business Development,Marketing Management,Marketing Management,Marketing Management,Marketing Management",,,1-30,,
+897862,PEC Upsell to Enterprise,2015-12-04 17:19:55.4,2016-01-11 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,1865562,"Professional Engineering Consultants, P.A.",,,0.0000,31000.0000,0.0000,,,,,,,,,,,,,,,,0,,<p>Jan will tell customer</p>,,2937,,Cornell Cornish,,,,,,,,,
+895728,Helix Electric,2015-12-02 16:01:33.137,2015-12-02 00:00:00.0,006-Signed MSA,2,Closed/Won,1,0,2591705,Helix Electric,,,0.0000,7200.0000,0.0000,,,,,,,,,,,,,,,,0,,,,661956,,Archit Veeravalli,,,Accounting : CMiC,,,,,,
